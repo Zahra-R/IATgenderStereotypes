@@ -1,0 +1,3491 @@
+﻿Hintergrundfarbe etc. ****gilt für alle IATs****
+ 
+<defaults>
+/ fontstyle = ("Arial", 2.5%)
+/ txcolor = khaki
+/ screencolor = black
+/ txbgcolor = transparent
+/ canvasaspectratio = (16,9)
+/ canvasposition = (50%,50%)
+</defaults>
+
+
+********************************************************************************************************************************************************************
+********************************************************************************************************************************************************************
+********************************************************************************************************************************************************************
+							IATS
+********************************************************************************************************************************************************************
+********************************************************************************************************************************************************************
+********************************************************************************************************************************************************************
+++++++++++++++++ IAT Karriere Familie IAT_A ++++++++++++++++++++++++++++++++++++++++++++++++++
+<item maleStereotypesLabel_A>
+/1 = "KARRIERE"
+</item>
+
+<item maleWords_A>
+/1 = "KARRIERE"
+/2 = "BERUF"
+/3 = "ERFOLG"
+/4 = "GELD"
+/5 = "MACHT"
+/6 = "VORGESETZT"
+/7 = "BEFÖRDERUNG"
+/8 = "BÜRO"
+ </item> 
+
+<item femaleStereotypesLabel_A>
+/1 = "FAMILIE"
+</item>
+
+<item femaleWords_A>
+/1 = "FAMILIE"
+/2 = "KINDER"
+/3 = "HAUSHALT"
+/4 = "HÄUSLICH"
+/5 = "KÜMMERN"
+/6 = "FÜRSORGE"
+/7 = "ERZIEHEN"
+/8 = "HEIM"
+ </item>
+ 
+<item femaleFacesLabel_A>
+/1 = "FRAUEN"
+</item>
+ 
+<item femaleFaces_A>
+ /1 = "Fa1.bmp"
+ /2 = "Fa2.bmp"
+ /3 = "Fa3.bmp"
+ /4 = "Fa4.bmp"
+ /5 = "Fa5.bmp"
+ </item>
+ 
+<item maleFacesLabel_A>
+/1 = "MÄNNER"
+</item>
+
+<item maleFaces_A>
+ /1 = "Ma1.bmp"
+ /2 = "Ma2.bmp"
+ /3 = "Ma3.bmp"
+ /4 = "Ma4.bmp"
+ /5 = "Ma5.bmp"
+ </item>
+ 
+++++++++++++++++ IAT Emotionale Intelligenz Rationale Intelligenz  IAT_B ++++++++++++++++++++++++++++++++++++++++++++++++++
+<item maleStereotypesLabel_B>
+/1 = "RATIONAL"
+</item>
+
+<item maleWords_B>
+/1 = "RATIONAL"
+/2 = "KONTROLLIERT"
+/3 = "VERSTAND"
+/4 = "NÜCHTERN"
+/5 = "VERNUNFT"
+/6 = "ARGUMENTATIV"
+/7 = "KOGNITIV"
+/8 = "BEDACHT"
+ </item> 
+
+<item femaleStereotypesLabel_B>
+/1 = "EMOTIONAL"
+</item>
+<item femaleWords_B>
+/1 = "EMOTIONAL"
+/2 = "GEFÜHL"
+/3 = "SENSIBEL"
+/4 = "SENTIMENTAL"
+/5 = "AFFEKTIV"
+/6 = "INSTINKTIV"
+/7 = "INTUITION"
+/8 = "BAUCHGEFÜHL"
+ </item>
+ 
+<item femaleFacesLabel_B>
+/1 = "FRAUEN"
+</item>
+ 
+<item femaleFaces_B>
+ /1 = "Fb1.bmp"
+ /2 = "Fb2.bmp"
+ /3 = "Fb3.bmp"
+ /4 = "Fb4.bmp"
+ /5 = "Fb5.bmp"
+ </item>
+ 
+<item maleFacesLabel_B>
+/1 = "MÄNNER"
+</item>
+
+<item maleFaces_B>
+ /1 = "Mb1.bmp"
+ /2 = "Mb2.bmp"
+ /3 = "Mb3.bmp"
+ /4 = "Mb4.bmp"
+ /5 = "Mb5.bmp"
+ </item>
+  
+
+++++++++++++++++ IAT SPRACHE MATHE IAT_C ++++++++++++++++++++++++++++++++++++++++++++++++++
+<item maleStereotypesLabel_C>
+/1 = "NATURWISSENSCHAFTEN"
+</item>
+
+<item maleWords_C>
+/1 = "NATURWISSENSCHAFTEN"
+/2 = "BERECHNEN"
+/3 = "ABSTRAKT"
+/4 = "TECHNIK"
+/5 = "PHYSIK"
+/6 = "ZAHLEN"
+/7 = "FORMELN"
+/8 = "ALGEBRA"
+/9 = "EXPERIMENT"
+ </item> 
+
+<item femaleStereotypesLabel_C>
+/1 = "GEISTESWISSENSCHAFTEN"
+</item>
+
+<item femaleWords_C>
+/1 = "SPRACHEN"
+/2 = "PHILOSOPHIE"
+/3 = "LESEN"
+/4 = "TEXT"
+/5 = "POESIE"
+/6 = "VERBAL"
+/7 = "WORT"
+/8 = "LITERATUR"
+/9 = "LINGUISTIK"
+ </item>
+ 
+<item femaleFacesLabel_C>
+/1 = "FRAUEN"
+</item>
+ 
+<item femaleFaces_C>
+ /1 = "Fc1.bmp"
+ /2 = "Fc2.bmp"
+ /3 = "Fc3.bmp"
+ /4 = "Fc4.bmp"
+ /5 = "Fc5.bmp"
+ </item>
+ 
+<item maleFacesLabel_C>
+/1 = "MÄNNER"
+</item>
+
+<item maleFaces_C>
+ /1 = "Mc1.bmp"
+ /2 = "Mc2.bmp"
+ /3 = "Mc3.bmp"
+ /4 = "Mc4.bmp"
+ /5 = "Mc5.bmp"
+ </item>
+
+ 
+ 
+++++++++++++++++ IAT AGGRESSION SANFTMUT IAT_D ++++++++++++++++++++++++++++++++++++++++++++++++++
+<item maleStereotypesLabel_D>
+/1 = "AGGRESSION"
+</item>
+
+<item maleWords_D>
+/1 = "AGGRESSION"
+/2 = "GEWALT"
+/3 = "ANGREIFEN"
+/4 = "HANDGREIFLICH"
+/5 = "ATTACKIEREN"
+/6 = "VERBRECHEN"
+/7 = "SCHLAGEN"
+/8 = "OFFENSIV"
+/9 = "VEHEMENT"
+ </item> 
+
+<item femaleStereotypesLabel_D>
+/1 = "SANFTMUT"
+</item>
+
+<item femaleWords_D>
+/1 = "SANFTMUT"
+/2 = "MILD"
+/3 = "NACHSICHTIG"
+/4 = "WEICH"
+/5 = "FRIEDLICH"
+/6 = "PAZIFISTISCH"
+/7 = "RUHIG"
+/8 = "NACHGIEBIG"
+/9 = "KOMPROMISSBEREIT"
+ </item>
+ 
+<item femaleFacesLabel_D>
+/1 = "FRAUEN"
+</item>
+ 
+<item femaleFaces_D>
+ /1 = "Fd1.bmp"
+ /2 = "Fd2.bmp"
+ /3 = "Fd3.bmp"
+ /4 = "Fd4.bmp"
+ /5 = "Fd5.bmp"
+ </item>
+ 
+<item maleFacesLabel_D>
+/1 = "MÄNNER"
+</item>
+
+<item maleFaces_D>
+ /1 = "Md1.bmp"
+ /2 = "Md2.bmp"
+ /3 = "Md3.bmp"
+ /4 = "Md4.bmp"
+ /5 = "Md5.bmp"
+ </item>
+ 
+ 
+ 
+++++++++++++++++ IAT Handlungsorientert Beziehungsorientert IAT_E ++++++++++++++++++++++++++++++++++++++++++++++++++
+<item maleStereotypesLabel_E>
+/1 = "HANDLUNGSORIENTIERT"
+</item>
+<item maleWords_E>
+/1 = "HANDLUNGSORIENTIERT"
+/2 = "MACHEN"
+/3 = "HANDELN"
+/4 = "UMSETZEN"
+/5 = "EFFIZIENT"
+/6 = "SACHLICH"
+/7 = "PRAGMATISCH"
+/8 = "ERGEBNISORIENTIERT"
+/9 = "DURCHZIEHEN"
+/10 = "ANGEHEN"
+ </item> 
+<item femaleStereotypesLabel_E>
+/1 = "BEZIEHUNGSORIENTIERT"
+</item>
+<item femaleWords_E>
+/1 = "BEZIEHUNGSORIENTIERT"
+/2 = "GEMEINSCHAFT"
+/3 = "GEMEINWOHL"
+/4 = "EMPATHIE"
+/5 = "GRUPPE"
+/6 = "SELBSTLOS"
+/7 = "ZWISCHENMENSCHLICH"
+/8 = "WARM"
+/9 = "SOZIAL"
+ </item>
+ 
+<item femaleFacesLabel_E>
+/1 = "FRAUEN"
+</item>
+ 
+<item femaleFaces_E>
+ /1 = "Fe1.bmp"
+ /2 = "Fe2.bmp"
+ /3 = "Fe3.bmp"
+ /4 = "Fe4.bmp"
+ /5 = "Fe5.bmp"
+ </item>
+ 
+<item maleFacesLabel_E>
+/1 = "MÄNNER"
+</item>
+
+<item maleFaces_E>
+ /1 = "Me1.bmp"
+ /2 = "Me2.bmp"
+ /3 = "Me3.bmp"
+ /4 = "Me4.bmp"
+ /5 = "Me5.bmp"
+ </item>
+ 
+------------------------------------------------------------------------------------- 
+<item instructions1_A>
+/ 1 = "
+
+Schau auf die Beschriftungen. Gleich erscheinen verschiedene Begriffe in der Mitte des Bildschirms, die zu den zwei Kategorien <%expressions.maleStereotypesLabel_A%> oder <%expressions.femaleStereotypesLabel_A%> gehören. 
+
+Drücke Taste A, wenn ein Begriff zu der Kategorie <%expressions.maleStereotypesLabel_A%> gehört.
+Drücke Taste 5, wenn ein Begriff zu der Kategorie <%expressions.femaleStereotypesLabel_A%> gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+
+</item>
+
+<item instructions2_A>
+/2 = "
+
+Schau auf die Beschriftungen. In den folgenden Durchgängen werden jetzt ZWEI Kategorien gepaart, sodass nun jeder Taste ZWEI Kategorien zugewiesen sind.
+
+
+Drücke Taste A, wenn das gezeigte Item zu der Kategorie <%expressions.maleStereotypesLabel_A%> oder zu der Kategorie MÄNNER gehört.
+Drücke Taste 5, wenn das gezeigte Item zu der Kategorie <%expressions.femaleStereotypesLabel_A%> oder zu der Kategorie FRAUEN gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<item instructions3_A>
+/ 3 = "
+
+Schau auf die Beschriftungen. Die zwei Stimuli in diesem Block sind nun wieder Begriffe, die zu den Kategorien <%expressions.femaleStereotypesLabel_A%> 
+oder <%expressions.maleStereotypesLabel_A%> gehören, allerdings sind jetzt die Tastenzuweisungen vertauscht!
+
+Das heißt, du wirst im Folgenden die selben Begriffe wie vorher sortieren, allerdings mit den neuen Tastenzuweisungen.
+
+Drücke Taste A, wenn ein Begriff zu der Kategorie <%expressions.femaleStereotypesLabel_A%> gehört.
+Drücke Taste 5, wenn ein Begriff zu der Kategorie <%expressions.maleStereotypesLabel_A%> gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<item instructions4_A>
+/ 4 = "
+
+Die nächsten Durchgänge paaren immer zwei Kategorien zusammen, sodass jeder Taste ZWEI Kategorien zugeordnet sind. 
+
+
+Bitte drücke die Taste 'A', wenn du etwas siehst, das zu den Kategorien <%expressions.femaleStereotypesLabel_A%> oder MÄNNER gehört.
+Bitte drücke die Taste '5', wenn du etwas siehst, das zu den Kategorien <%expressions.maleStereotypesLabel_A%> oder FRAUEN gehört.
+
+
+
+(Drücke die Leertaste, um fortzufahren)"
+</item>
+
+
+<item spacebar>
+/1 = "Drücke die Leertaste, um zu starten"
+</item>
+
+<expressions>
+/femaleStereotypesLabel_A = ("FAMILIE")
+/maleStereotypesLabel_A = ("KARRIERE")
+</expressions>
+************** Instruktionen IAT B ************************* 
+<values>
+/showsummaryfeedback_B = true
+</values>
+<item instructions1_B>
+/ 1 = "
+
+Schau auf die Beschriftungen. Gleich erscheinen verschiedene Begriffe in der Mitte des Bildschirms, die zu den zwei Kategorien <%expressions.maleStereotypesLabel_B%> oder <%expressions.femaleStereotypesLabel_B%> gehören. 
+
+Drücke Taste A, wenn ein Begriff zu der Kategorie <%expressions.maleStereotypesLabel_B%> gehört.
+Drücke Taste 5, wenn ein Begriff zu der Kategorie <%expressions.femaleStereotypesLabel_B%> gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+
+</item>
+
+<item instructions2_B>
+/2 = "
+
+Schau auf die Beschriftungen. In den folgenden Durchgängen werden jetzt ZWEI Kategorien gepaart, sodass nun jeder Taste ZWEI Kategorien zugewiesen sind.
+
+
+Drücke Taste A, wenn das gezeigte Item zu der Kategorie <%expressions.maleStereotypesLabel_B%> oder zu der Kategorie MÄNNER gehört.
+Drücke Taste 5, wenn das gezeigte Item zu der Kategorie <%expressions.femaleStereotypesLabel_B%> oder zu der Kategorie FRAUEN gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<item instructions3_B>
+/ 3 = "
+
+Schau auf die Beschriftungen. Die zwei Stimuli in diesem Block sind nun wieder Begriffe, die zu den Kategorien <%expressions.femaleStereotypesLabel_B%> 
+oder <%expressions.maleStereotypesLabel_B%> gehören, allerdings sind jetzt die Tastenzuweisungen vertauscht!
+
+Das heißt, du wirst im Folgenden die selben Begriffe wie vorher sortieren, allerdings mit den neuen Tastenzuweisungen.
+
+Drücke Taste A, wenn ein Begriff zu der Kategorie <%expressions.femaleStereotypesLabel_B%> gehört.
+Drücke Taste 5, wenn ein Begriff zu der Kategorie <%expressions.maleStereotypesLabel_B%> gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<item instructions4_B>
+/ 4 = "
+
+Die nächsten Durchgänge paaren immer zwei Kategorien zusammen, sodass jeder Taste ZWEI Kategorien zugeordnet sind. 
+
+
+Bitte drücke die Taste 'A', wenn du etwas siehst, das zu den Kategorien <%expressions.femaleStereotypesLabel_B%> oder MÄNNER gehört.
+Bitte drücke die Taste '5', wenn du etwas siehst, das zu den Kategorien <%expressions.maleStereotypesLabel_B%> oder FRAUEN gehört.
+
+
+
+(Drücke die Leertaste, um fortzufahren)"
+</item>
+
+
+<expressions>
+/femaleStereotypesLabel_B = ("EMOTIONAL")
+/maleStereotypesLabel_B = ("RATIONAL")
+</expressions>
+
+************** Instruktionen IAT C ************************* 
+<values>
+/showsummaryfeedback_C = true
+</values>
+<item instructions1_C>
+/ 1 = "
+
+Schau auf die Beschriftungen. Gleich erscheinen verschiedene Begriffe in der Mitte des Bildschirms, die zu den zwei Kategorien <%expressions.maleStereotypesLabel_C%> oder <%expressions.femaleStereotypesLabel_C%> gehören. 
+
+Drücke Taste A, wenn ein Begriff zu der Kategorie <%expressions.maleStereotypesLabel_C%> gehört.
+Drücke Taste 5, wenn ein Begriff zu der Kategorie <%expressions.femaleStereotypesLabel_C%> gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+
+</item>
+
+<item instructions2_C>
+/2 = "
+
+Schau auf die Beschriftungen. In den folgenden Durchgängen werden jetzt ZWEI Kategorien gepaart, sodass nun jeder Taste ZWEI Kategorien zugewiesen sind.
+
+
+Drücke Taste A, wenn das gezeigte Item zu der Kategorie <%expressions.maleStereotypesLabel_C%> oder zu der Kategorie MÄNNER gehört.
+Drücke Taste 5, wenn das gezeigte Item zu der Kategorie <%expressions.femaleStereotypesLabel_C%> oder zu der Kategorie FRAUEN gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<item instructions3_C>
+/ 3 = "
+
+Schau auf die Beschriftungen. Die zwei Stimuli in diesem Block sind nun wieder Begriffe, die zu den Kategorien <%expressions.femaleStereotypesLabel_C%> 
+oder <%expressions.maleStereotypesLabel_C%> gehören, allerdings sind jetzt die Tastenzuweisungen vertauscht!
+
+Das heißt, du wirst im Folgenden die selben Begriffe wie vorher sortieren, allerdings mit den neuen Tastenzuweisungen.
+
+Drücke Taste A, wenn ein Begriff zu der Kategorie <%expressions.femaleStereotypesLabel_C%> gehört.
+Drücke Taste 5, wenn ein Begriff zu der Kategorie <%expressions.maleStereotypesLabel_C%> gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<item instructions4_C>
+/ 4 = "
+
+Die nächsten Durchgänge paaren immer zwei Kategorien zusammen, sodass jeder Taste ZWEI Kategorien zugeordnet sind. 
+
+
+Bitte drücke die Taste 'A', wenn du etwas siehst, das zu den Kategorien <%expressions.femaleStereotypesLabel_C%> oder MÄNNER gehört.
+Bitte drücke die Taste '5', wenn du etwas siehst, das zu den Kategorien <%expressions.maleStereotypesLabel_C%> oder FRAUEN gehört.
+
+
+
+(Drücke die Leertaste, um fortzufahren)"
+</item>
+
+
+<expressions>
+/femaleStereotypesLabel_C = ("GEISTESWISSENSCHAFTEN")
+/maleStereotypesLabel_C = ("NATURWISSENSCHAFTEN")
+</expressions>
+
+
+************** Instruktionen IAT D ************************* 
+
+<values>
+/showsummaryfeedback_D = true
+</values>
+
+
+ 
+<item instructions1_D>
+/ 1 = "
+
+Schau auf die Beschriftungen. Gleich erscheinen verschiedene Begriffe in der Mitte des Bildschirms, die zu den zwei Kategorien <%expressions.maleStereotypesLabel_D%> oder <%expressions.femaleStereotypesLabel_D%> gehören. 
+
+Drücke Taste A, wenn ein Begriff zu der Kategorie <%expressions.maleStereotypesLabel_D%> gehört.
+Drücke Taste 5, wenn ein Begriff zu der Kategorie <%expressions.femaleStereotypesLabel_D%> gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+
+</item>
+
+<item instructions2_D>
+/2 = "
+
+Schau auf die Beschriftungen. In den folgenden Durchgängen werden jetzt ZWEI Kategorien gepaart, sodass nun jeder Taste ZWEI Kategorien zugewiesen sind.
+
+
+Drücke Taste A, wenn das gezeigte Item zu der Kategorie <%expressions.maleStereotypesLabel_D%> oder zu der Kategorie MÄNNER gehört.
+Drücke Taste 5, wenn das gezeigte Item zu der Kategorie <%expressions.femaleStereotypesLabel_D%> oder zu der Kategorie FRAUEN gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<item instructions3_D>
+/ 3 = "
+
+Schau auf die Beschriftungen. Die zwei Stimuli in diesem Block sind nun wieder Begriffe, die zu den Kategorien <%expressions.femaleStereotypesLabel_D%> 
+oder <%expressions.maleStereotypesLabel_D%> gehören, allerdings sind jetzt die Tastenzuweisungen vertauscht!
+
+Das heißt, du wirst im Folgenden die selben Begriffe wie vorher sortieren, allerdings mit den neuen Tastenzuweisungen.
+
+Drücke Taste A, wenn ein Begriff zu der Kategorie <%expressions.femaleStereotypesLabel_D%> gehört.
+Drücke Taste 5, wenn ein Begriff zu der Kategorie <%expressions.maleStereotypesLabel_D%> gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<item instructions4_D>
+/ 4 = "
+
+Die nächsten Durchgänge paaren immer zwei Kategorien zusammen, sodass jeder Taste ZWEI Kategorien zugeordnet sind. 
+
+
+Bitte drücke die Taste 'A', wenn du etwas siehst, das zu den Kategorien <%expressions.femaleStereotypesLabel_D%> oder MÄNNER gehört.
+Bitte drücke die Taste '5', wenn du etwas siehst, das zu den Kategorien <%expressions.maleStereotypesLabel_D%> oder FRAUEN gehört.
+
+
+
+(Drücke die Leertaste, um fortzufahren)"
+</item>
+
+
+<expressions>
+/femaleStereotypesLabel_D = ("SANFTMUT")
+/maleStereotypesLabel_D = ("AGGRESSION")
+</expressions>
+
+
+************** Instruktionen IAT E ************************* 
+
+<values>
+/showsummaryfeedback_E = true
+</values>
+
+
+ 
+<item instructions1_E>
+/ 1 = "
+
+Schau auf die Beschriftungen. Gleich erscheinen verschiedene Begriffe in der Mitte des Bildschirms, die zu den zwei Kategorien <%expressions.maleStereotypesLabel_E%> oder <%expressions.femaleStereotypesLabel_E%> gehören. 
+
+Drücke Taste A, wenn ein Begriff zu der Kategorie <%expressions.maleStereotypesLabel_E%> gehört.
+Drücke Taste 5, wenn ein Begriff zu der Kategorie <%expressions.femaleStereotypesLabel_E%> gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+
+</item>
+
+<item instructions2_E>
+/2 = "
+
+Schau auf die Beschriftungen. In den folgenden Durchgängen werden jetzt ZWEI Kategorien gepaart, sodass nun jeder Taste ZWEI Kategorien zugewiesen sind.
+
+
+Drücke Taste A, wenn das gezeigte Item zu der Kategorie <%expressions.maleStereotypesLabel_E%> oder zu der Kategorie MÄNNER gehört.
+Drücke Taste 5, wenn das gezeigte Item zu der Kategorie <%expressions.femaleStereotypesLabel_E%> oder zu der Kategorie FRAUEN gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<item instructions3_E>
+/ 3 = "
+
+Schau auf die Beschriftungen. Die zwei Stimuli in diesem Block sind nun wieder Begriffe, die zu den Kategorien <%expressions.femaleStereotypesLabel_E%> 
+oder <%expressions.maleStereotypesLabel_E%> gehören, allerdings sind jetzt die Tastenzuweisungen vertauscht!
+
+Das heißt, du wirst im Folgenden die selben Begriffe wie vorher sortieren, allerdings mit den neuen Tastenzuweisungen.
+
+Drücke Taste A, wenn ein Begriff zu der Kategorie <%expressions.femaleStereotypesLabel_E%> gehört.
+Drücke Taste 5, wenn ein Begriff zu der Kategorie <%expressions.maleStereotypesLabel_E%> gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<item instructions4_E>
+/ 4 = "
+
+Die nächsten Durchgänge paaren immer zwei Kategorien zusammen, sodass jeder Taste ZWEI Kategorien zugeordnet sind. 
+
+
+Bitte drücke die Taste 'A', wenn du etwas siehst, das zu den Kategorien <%expressions.femaleStereotypesLabel_E%> oder MÄNNER gehört.
+Bitte drücke die Taste '5', wenn du etwas siehst, das zu den Kategorien <%expressions.maleStereotypesLabel_E%> oder FRAUEN gehört.
+
+
+
+(Drücke die Leertaste, um fortzufahren)"
+</item>
+
+
+<expressions>
+/femaleStereotypesLabel_E = ("BEZIEHUNGSORIENTIERUNG")
+/maleStereotypesLabel_E = ("HANDLUNGSORIENTIERUNG")
+</expressions>
+
+
+
+*************************************************************************
+
+
+
+
+
+<values>
+/ completed = 0
+/ sum1_A = 0
+/ sum2_A = 0
+
+/ magnitude_A = "unknown"
+
+
+/ preferred_A = "unknown"
+/ notpreferred_A = "unknown"
+/ IATorder_A = 0
+/ correct_A_test = 0 
+/ correct_A_inc_test=0
+
+/ sum1_A_firsthalf=0   
+/ sum1_A_scdhalf=0
+/ n1_A_firsthalf=0
+/ n1_A_scdhalf=0
+/ ss1_A_firsthalf=0
+/ ss1_A_scdhalf=0
+/ sum_fast1_A_firsthalf=0
+/ sum_fast1_A_scdhalf=0
+
+/ n_correct_A_firsthalf=0
+/ n_correct_A_scdhalf=0
+
+/ sum2_A_firsthalf=0   
+/ sum2_A_scdhalf=0
+/ n2_A_firsthalf=0
+/ n2_A_scdhalf=0
+/ ss2_A_firsthalf=0
+/ ss2_A_scdhalf=0
+/ sum_fast2_A_firsthalf=0
+/ sum_fast2_A_scdhalf=0
+
+</values>
+
+<expressions>
+/ m1_A_firsthalf=values.sum1_A_firsthalf / values.n1_A_firsthalf
+/ m1_A_scdhalf=values.sum1_A_scdhalf / values.n1_A_scdhalf
+/ m2_A_firsthalf=values.sum2_A_firsthalf / values.n2_A_firsthalf
+/ m2_A_scdhalf=values.sum2_A_scdhalf / values.n2_A_scdhalf
+
+
+/ m1_A = (values.sum1_A_firsthalf+values.sum1_A_scdhalf)/(values.n1_A_firsthalf+values.n1_A_scdhalf)
+/ m2_A = (values.sum2_A_firsthalf+values.sum2_A_scdhalf)/(values.n2_A_firsthalf+values.n2_A_scdhalf)
+
+/ sd1_A_firsthalf = sqrt((values.ss1_A_firsthalf - (values.n1_A_firsthalf * (expressions.m1_A_firsthalf * expressions.m1_A_firsthalf))) / (values.n1_A_firsthalf - 1))
+/ sd1_A_scdhalf = sqrt((values.ss1_A_scdhalf - (values.n1_A_scdhalf * (expressions.m1_A_scdhalf * expressions.m1_A_scdhalf))) / (values.n1_A_scdhalf - 1))
+/ sd2_A_firsthalf = sqrt((values.ss2_A_firsthalf - (values.n2_A_firsthalf * (expressions.m2_A_firsthalf * expressions.m2_A_firsthalf))) / (values.n2_A_firsthalf - 1))
+/ sd2_A_scdhalf = sqrt((values.ss2_A_scdhalf - (values.n2_A_scdhalf * (expressions.m2_A_scdhalf * expressions.m2_A_scdhalf))) / (values.n2_A_scdhalf - 1))
+/ sd_A_firsthalf= sqrt((((values.n1_A_firsthalf - 1) * (expressions.sd1_A_firsthalf * expressions.sd1_A_firsthalf) + (values.n2_A_firsthalf - 1) * (expressions.sd2_A_firsthalf * expressions.sd2_A_firsthalf)) 
+				+ ((values.n1_A_firsthalf + values.n2_A_firsthalf) * ((expressions.m1_A_firsthalf - expressions.m2_A_firsthalf) * (expressions.m1_A_firsthalf - expressions.m2_A_firsthalf)) / 4) ) / (values.n1_A_firsthalf + values.n2_A_firsthalf - 1) )
+/ sd_A_scdhalf = sqrt((((values.n1_A_scdhalf - 1) * (expressions.sd1_A_scdhalf * expressions.sd1_A_scdhalf) + (values.n2_A_scdhalf - 1) * (expressions.sd2_A_scdhalf * expressions.sd2_A_scdhalf)) 
+				+ ((values.n1_A_scdhalf + values.n2_A_scdhalf) * ((expressions.m1_A_scdhalf - expressions.m2_A_scdhalf) * (expressions.m1_A_scdhalf - expressions.m2_A_scdhalf)) / 4) ) / (values.n1_A_scdhalf + values.n2_A_scdhalf - 1) )
+
+
+/ ss1_A= expressions.sd1_A_firsthalf+expressions.sd1_A_scdhalf
+/ ss2_A= expressions.sd2_A_firsthalf+expressions.sd2_A_scdhalf
+/ n1_A= values.n1_A_firsthalf+values.n1_A_scdhalf
+/ n2_A= values.n2_A_firsthalf+values.n2_A_scdhalf
+
+/ sd1_A = sqrt((expressions.ss1_A - (expressions.n1_A * (expressions.m1_A * expressions.m1_A))) / (expressions.n1_A - 1))
+/ sd2_A = sqrt((expressions.ss2_A - (expressions.n2_A * (expressions.m2_A * expressions.m2_A))) / (expressions.n2_A - 1))
+/ sd_A = sqrt((((expressions.n1_A - 1) * (expressions.sd1_A * expressions.sd1_A) + (expressions.n2_A - 1) * (expressions.sd2_A * expressions.sd2_A)) 
+				+ ((expressions.n1_A + expressions.n2_A) * ((expressions.m1_A - expressions.m2_A) * (expressions.m1_A - expressions.m2_A)) / 4) ) / (expressions.n1_A + expressions.n2_A - 1) )
+
+/ d_A = (expressions.m2_A - expressions.m1_A) / expressions.sd_A
+/ d_A_firsthalf = (expressions.m2_A_firsthalf-expressions.m1_A_firsthalf) / expressions.sd_A_firsthalf
+/ d_A_scdhalf = (expressions.m2_A_scdhalf-expressions.m1_A_scdhalf) / expressions.sd_A_scdhalf
+
+/ n_correct_A=values.n_correct_A_firsthalf + values.n_correct_A_scdhalf
+/ percentcorrect_A = (expressions.n_correct_A/ (expressions.n1_A + expressions.n2_A)) * 100
+/ sum_fast1_A=values.sum_fast1_A_firsthalf+values.sum_fast1_A_scdhalf
+/ sum_fast2_A=values.sum_fast2_A_firsthalf+ values.sum_fast2_A_scdhalf
+
+/ percentfast_A = ((expressions.sum_fast1_A + expressions.sum_fast2_A)/ (expressions.n1_A + expressions.n2_A)) * 100
+/ amountvalid_A = expressions.n1_A + expressions.n2_A
+/ feedback_time_A = (expressions.m1_A + expressions.m2_A) / 2
+</expressions>
+
+<values>
+/IAT_A = "A"
+</values>
+
+<expressions>
+/IATName_A = (values.IAT_A)
+</expressions>
+
+
+------------------- IAT B ------------------------------------ 
+
+<values>
+/ sum1_B = 0
+/ sum2_B = 0
+
+/ magnitude_B = "unknown"
+
+
+/ preferred_B = "unknown"
+/ notpreferred_B = "unknown"
+/ IATorder_B = 0
+/ correct_B_test = 0 
+/ correct_B_inc_test=0
+
+/ sum1_B_firsthalf=0   
+/ sum1_B_scdhalf=0
+/ n1_B_firsthalf=0
+/ n1_B_scdhalf=0
+/ ss1_B_firsthalf=0
+/ ss1_B_scdhalf=0
+/ sum_fast1_B_firsthalf=0
+/ sum_fast1_B_scdhalf=0
+
+/ n_correct_B_firsthalf=0
+/ n_correct_B_scdhalf=0
+
+/ sum2_B_firsthalf=0   
+/ sum2_B_scdhalf=0
+/ n2_B_firsthalf=0
+/ n2_B_scdhalf=0
+/ ss2_B_firsthalf=0
+/ ss2_B_scdhalf=0
+/ sum_fast2_B_firsthalf=0
+/ sum_fast2_B_scdhalf=0
+
+</values>
+
+<expressions>
+/ m1_B_firsthalf=values.sum1_B_firsthalf / values.n1_B_firsthalf
+/ m1_B_scdhalf=values.sum1_B_scdhalf / values.n1_B_scdhalf
+/ m2_B_firsthalf=values.sum2_B_firsthalf / values.n2_B_firsthalf
+/ m2_B_scdhalf=values.sum2_B_scdhalf / values.n2_B_scdhalf
+
+
+/ m1_B = (values.sum1_B_firsthalf+values.sum1_B_scdhalf)/(values.n1_B_firsthalf+values.n1_B_scdhalf)
+/ m2_B = (values.sum2_B_firsthalf+values.sum2_B_scdhalf)/(values.n2_B_firsthalf+values.n2_B_scdhalf)
+
+/ sd1_B_firsthalf = sqrt((values.ss1_B_firsthalf - (values.n1_B_firsthalf * (expressions.m1_B_firsthalf * expressions.m1_B_firsthalf))) / (values.n1_B_firsthalf - 1))
+/ sd1_B_scdhalf = sqrt((values.ss1_B_scdhalf - (values.n1_B_scdhalf * (expressions.m1_B_scdhalf * expressions.m1_B_scdhalf))) / (values.n1_B_scdhalf - 1))
+/ sd2_B_firsthalf = sqrt((values.ss2_B_firsthalf - (values.n2_B_firsthalf * (expressions.m2_B_firsthalf * expressions.m2_B_firsthalf))) / (values.n2_B_firsthalf - 1))
+/ sd2_B_scdhalf = sqrt((values.ss2_B_scdhalf - (values.n2_B_scdhalf * (expressions.m2_B_scdhalf * expressions.m2_B_scdhalf))) / (values.n2_B_scdhalf - 1))
+/ sd_B_firsthalf= sqrt((((values.n1_B_firsthalf - 1) * (expressions.sd1_B_firsthalf * expressions.sd1_B_firsthalf) + (values.n2_B_firsthalf - 1) * (expressions.sd2_B_firsthalf * expressions.sd2_B_firsthalf)) 
+				+ ((values.n1_B_firsthalf + values.n2_B_firsthalf) * ((expressions.m1_B_firsthalf - expressions.m2_B_firsthalf) * (expressions.m1_B_firsthalf - expressions.m2_B_firsthalf)) / 4) ) / (values.n1_B_firsthalf + values.n2_B_firsthalf - 1) )
+/ sd_B_scdhalf = sqrt((((values.n1_B_scdhalf - 1) * (expressions.sd1_B_scdhalf * expressions.sd1_B_scdhalf) + (values.n2_B_scdhalf - 1) * (expressions.sd2_B_scdhalf * expressions.sd2_B_scdhalf)) 
+				+ ((values.n1_B_scdhalf + values.n2_B_scdhalf) * ((expressions.m1_B_scdhalf - expressions.m2_B_scdhalf) * (expressions.m1_B_scdhalf - expressions.m2_B_scdhalf)) / 4) ) / (values.n1_B_scdhalf + values.n2_B_scdhalf - 1) )
+
+
+/ ss1_B= expressions.sd1_B_firsthalf+expressions.sd1_B_scdhalf
+/ ss2_B= expressions.sd2_B_firsthalf+expressions.sd2_B_scdhalf
+/ n1_B= values.n1_B_firsthalf+values.n1_B_scdhalf
+/ n2_B= values.n2_B_firsthalf+values.n2_B_scdhalf
+
+/ sd1_B = sqrt((expressions.ss1_B - (expressions.n1_B * (expressions.m1_B * expressions.m1_B))) / (expressions.n1_B - 1))
+/ sd2_B = sqrt((expressions.ss2_B - (expressions.n2_B * (expressions.m2_B * expressions.m2_B))) / (expressions.n2_B - 1))
+/ sd_B = sqrt((((expressions.n1_B - 1) * (expressions.sd1_B * expressions.sd1_B) + (expressions.n2_B - 1) * (expressions.sd2_B * expressions.sd2_B)) 
+				+ ((expressions.n1_B + expressions.n2_B) * ((expressions.m1_B - expressions.m2_B) * (expressions.m1_B - expressions.m2_B)) / 4) ) / (expressions.n1_B + expressions.n2_B - 1) )
+
+/ d_B = (expressions.m2_B - expressions.m1_B) / expressions.sd_B
+/ d_B_firsthalf = (expressions.m2_B_firsthalf-expressions.m1_B_firsthalf) / expressions.sd_B_firsthalf
+/ d_B_scdhalf = (expressions.m2_B_scdhalf-expressions.m1_B_scdhalf) / expressions.sd_B_scdhalf
+
+/ n_correct_B=values.n_correct_B_firsthalf + values.n_correct_B_scdhalf
+/ percentcorrect_B = (expressions.n_correct_B/ (expressions.n1_B + expressions.n2_B)) * 100
+/ sum_fast1_B=values.sum_fast1_B_firsthalf+values.sum_fast1_B_scdhalf
+/ sum_fast2_B=values.sum_fast2_B_firsthalf+ values.sum_fast2_B_scdhalf
+
+/ percentfast_B = ((expressions.sum_fast1_B + expressions.sum_fast2_B)/ (expressions.n1_B + expressions.n2_B)) * 100
+/ amountvalid_B = expressions.n1_B + expressions.n2_B
+/ feedback_time_B = (expressions.m1_B + expressions.m2_B) / 2
+</expressions>
+
+<values>
+/IAT_B = "B"
+</values>
+
+<expressions>
+/IATName_B = (values.IAT_B)
+</expressions>
+
+
+---------------------- IAT C ------------------------------------------
+<values>
+/ sum1_C = 0
+/ sum2_C = 0
+
+/ magnitude_C = "unknown"
+
+
+/ preferred_C = "unknown"
+/ notpreferred_C = "unknown"
+/ IATorder_C = 0
+/ correct_C_test = 0 
+/ correct_C_inc_test=0
+
+/ sum1_C_firsthalf=0   
+/ sum1_C_scdhalf=0
+/ n1_C_firsthalf=0
+/ n1_C_scdhalf=0
+/ ss1_C_firsthalf=0
+/ ss1_C_scdhalf=0
+/ sum_fast1_C_firsthalf=0
+/ sum_fast1_C_scdhalf=0
+
+/ n_correct_C_firsthalf=0
+/ n_correct_C_scdhalf=0
+
+/ sum2_C_firsthalf=0   
+/ sum2_C_scdhalf=0
+/ n2_C_firsthalf=0
+/ n2_C_scdhalf=0
+/ ss2_C_firsthalf=0
+/ ss2_C_scdhalf=0
+/ sum_fast2_C_firsthalf=0
+/ sum_fast2_C_scdhalf=0
+
+</values>
+
+<expressions>
+/ m1_C_firsthalf=values.sum1_C_firsthalf / values.n1_C_firsthalf
+/ m1_C_scdhalf=values.sum1_C_scdhalf / values.n1_C_scdhalf
+/ m2_C_firsthalf=values.sum2_C_firsthalf / values.n2_C_firsthalf
+/ m2_C_scdhalf=values.sum2_C_scdhalf / values.n2_C_scdhalf
+
+
+/ m1_C = (values.sum1_C_firsthalf+values.sum1_C_scdhalf)/(values.n1_C_firsthalf+values.n1_C_scdhalf)
+/ m2_C = (values.sum2_C_firsthalf+values.sum2_C_scdhalf)/(values.n2_C_firsthalf+values.n2_C_scdhalf)
+
+/ sd1_C_firsthalf = sqrt((values.ss1_C_firsthalf - (values.n1_C_firsthalf * (expressions.m1_C_firsthalf * expressions.m1_C_firsthalf))) / (values.n1_C_firsthalf - 1))
+/ sd1_C_scdhalf = sqrt((values.ss1_C_scdhalf - (values.n1_C_scdhalf * (expressions.m1_C_scdhalf * expressions.m1_C_scdhalf))) / (values.n1_C_scdhalf - 1))
+/ sd2_C_firsthalf = sqrt((values.ss2_C_firsthalf - (values.n2_C_firsthalf * (expressions.m2_C_firsthalf * expressions.m2_C_firsthalf))) / (values.n2_C_firsthalf - 1))
+/ sd2_C_scdhalf = sqrt((values.ss2_C_scdhalf - (values.n2_C_scdhalf * (expressions.m2_C_scdhalf * expressions.m2_C_scdhalf))) / (values.n2_C_scdhalf - 1))
+/ sd_C_firsthalf= sqrt((((values.n1_C_firsthalf - 1) * (expressions.sd1_C_firsthalf * expressions.sd1_C_firsthalf) + (values.n2_C_firsthalf - 1) * (expressions.sd2_C_firsthalf * expressions.sd2_C_firsthalf)) 
+				+ ((values.n1_C_firsthalf + values.n2_C_firsthalf) * ((expressions.m1_C_firsthalf - expressions.m2_C_firsthalf) * (expressions.m1_C_firsthalf - expressions.m2_C_firsthalf)) / 4) ) / (values.n1_C_firsthalf + values.n2_C_firsthalf - 1) )
+/ sd_C_scdhalf = sqrt((((values.n1_C_scdhalf - 1) * (expressions.sd1_C_scdhalf * expressions.sd1_C_scdhalf) + (values.n2_C_scdhalf - 1) * (expressions.sd2_C_scdhalf * expressions.sd2_C_scdhalf)) 
+				+ ((values.n1_C_scdhalf + values.n2_C_scdhalf) * ((expressions.m1_C_scdhalf - expressions.m2_C_scdhalf) * (expressions.m1_C_scdhalf - expressions.m2_C_scdhalf)) / 4) ) / (values.n1_C_scdhalf + values.n2_C_scdhalf - 1) )
+
+
+/ ss1_C= expressions.sd1_C_firsthalf+expressions.sd1_C_scdhalf
+/ ss2_C= expressions.sd2_C_firsthalf+expressions.sd2_C_scdhalf
+/ n1_C= values.n1_C_firsthalf+values.n1_C_scdhalf
+/ n2_C= values.n2_C_firsthalf+values.n2_C_scdhalf
+
+/ sd1_C = sqrt((expressions.ss1_C - (expressions.n1_C * (expressions.m1_C * expressions.m1_C))) / (expressions.n1_C - 1))
+/ sd2_C = sqrt((expressions.ss2_C - (expressions.n2_C * (expressions.m2_C * expressions.m2_C))) / (expressions.n2_C - 1))
+/ sd_C = sqrt((((expressions.n1_C - 1) * (expressions.sd1_C * expressions.sd1_C) + (expressions.n2_C - 1) * (expressions.sd2_C * expressions.sd2_C)) 
+				+ ((expressions.n1_C + expressions.n2_C) * ((expressions.m1_C - expressions.m2_C) * (expressions.m1_C - expressions.m2_C)) / 4) ) / (expressions.n1_C + expressions.n2_C - 1) )
+
+/ d_C = (expressions.m2_C - expressions.m1_C) / expressions.sd_C
+/ d_C_firsthalf = (expressions.m2_C_firsthalf-expressions.m1_C_firsthalf) / expressions.sd_C_firsthalf
+/ d_C_scdhalf = (expressions.m2_C_scdhalf-expressions.m1_C_scdhalf) / expressions.sd_C_scdhalf
+
+/ n_correct_C=values.n_correct_C_firsthalf + values.n_correct_C_scdhalf
+/ percentcorrect_C = (expressions.n_correct_C/ (expressions.n1_C + expressions.n2_C)) * 100
+/ sum_fast1_C=values.sum_fast1_C_firsthalf+values.sum_fast1_C_scdhalf
+/ sum_fast2_C=values.sum_fast2_C_firsthalf+ values.sum_fast2_C_scdhalf
+
+/ percentfast_C = ((expressions.sum_fast1_C + expressions.sum_fast2_C)/ (expressions.n1_C + expressions.n2_C)) * 100
+/ amountvalid_C = expressions.n1_C + expressions.n2_C
+/ feedback_time_C = (expressions.m1_C + expressions.m2_C) / 2
+</expressions>
+
+<values>
+/IAT_C = "C"
+</values>
+
+<expressions>
+/IATName_C = (values.IAT_C)
+</expressions>
+
+
+---------------------------------------- IAT D ----------------------------------------------------------------------------------
+<values>
+/ sum1_D = 0
+/ sum2_D = 0
+
+/ magnitude_D = "unknown"
+
+
+/ preferred_D = "unknown"
+/ notpreferred_D = "unknown"
+/ IATorder_D = 0
+/ correct_D_test = 0 
+/ correct_D_inc_test=0
+
+/ sum1_D_firsthalf=0   
+/ sum1_D_scdhalf=0
+/ n1_D_firsthalf=0
+/ n1_D_scdhalf=0
+/ ss1_D_firsthalf=0
+/ ss1_D_scdhalf=0
+/ sum_fast1_D_firsthalf=0
+/ sum_fast1_D_scdhalf=0
+
+/ n_correct_D_firsthalf=0
+/ n_correct_D_scdhalf=0
+
+/ sum2_D_firsthalf=0   
+/ sum2_D_scdhalf=0
+/ n2_D_firsthalf=0
+/ n2_D_scdhalf=0
+/ ss2_D_firsthalf=0
+/ ss2_D_scdhalf=0
+/ sum_fast2_D_firsthalf=0
+/ sum_fast2_D_scdhalf=0
+
+</values>
+
+<expressions>
+/ m1_D_firsthalf=values.sum1_D_firsthalf / values.n1_D_firsthalf
+/ m1_D_scdhalf=values.sum1_D_scdhalf / values.n1_D_scdhalf
+/ m2_D_firsthalf=values.sum2_D_firsthalf / values.n2_D_firsthalf
+/ m2_D_scdhalf=values.sum2_D_scdhalf / values.n2_D_scdhalf
+
+
+/ m1_D = (values.sum1_D_firsthalf+values.sum1_D_scdhalf)/(values.n1_D_firsthalf+values.n1_D_scdhalf)
+/ m2_D = (values.sum2_D_firsthalf+values.sum2_D_scdhalf)/(values.n2_D_firsthalf+values.n2_D_scdhalf)
+
+/ sd1_D_firsthalf = sqrt((values.ss1_D_firsthalf - (values.n1_D_firsthalf * (expressions.m1_D_firsthalf * expressions.m1_D_firsthalf))) / (values.n1_D_firsthalf - 1))
+/ sd1_D_scdhalf = sqrt((values.ss1_D_scdhalf - (values.n1_D_scdhalf * (expressions.m1_D_scdhalf * expressions.m1_D_scdhalf))) / (values.n1_D_scdhalf - 1))
+/ sd2_D_firsthalf = sqrt((values.ss2_D_firsthalf - (values.n2_D_firsthalf * (expressions.m2_D_firsthalf * expressions.m2_D_firsthalf))) / (values.n2_D_firsthalf - 1))
+/ sd2_D_scdhalf = sqrt((values.ss2_D_scdhalf - (values.n2_D_scdhalf * (expressions.m2_D_scdhalf * expressions.m2_D_scdhalf))) / (values.n2_D_scdhalf - 1))
+/ sd_D_firsthalf= sqrt((((values.n1_D_firsthalf - 1) * (expressions.sd1_D_firsthalf * expressions.sd1_D_firsthalf) + (values.n2_D_firsthalf - 1) * (expressions.sd2_D_firsthalf * expressions.sd2_D_firsthalf)) 
+				+ ((values.n1_D_firsthalf + values.n2_D_firsthalf) * ((expressions.m1_D_firsthalf - expressions.m2_D_firsthalf) * (expressions.m1_D_firsthalf - expressions.m2_D_firsthalf)) / 4) ) / (values.n1_D_firsthalf + values.n2_D_firsthalf - 1) )
+/ sd_D_scdhalf = sqrt((((values.n1_D_scdhalf - 1) * (expressions.sd1_D_scdhalf * expressions.sd1_D_scdhalf) + (values.n2_D_scdhalf - 1) * (expressions.sd2_D_scdhalf * expressions.sd2_D_scdhalf)) 
+				+ ((values.n1_D_scdhalf + values.n2_D_scdhalf) * ((expressions.m1_D_scdhalf - expressions.m2_D_scdhalf) * (expressions.m1_D_scdhalf - expressions.m2_D_scdhalf)) / 4) ) / (values.n1_D_scdhalf + values.n2_D_scdhalf - 1) )
+
+
+/ ss1_D= expressions.sd1_D_firsthalf+expressions.sd1_D_scdhalf
+/ ss2_D= expressions.sd2_D_firsthalf+expressions.sd2_D_scdhalf
+/ n1_D= values.n1_D_firsthalf+values.n1_D_scdhalf
+/ n2_D= values.n2_D_firsthalf+values.n2_D_scdhalf
+
+/ sd1_D = sqrt((expressions.ss1_D - (expressions.n1_D * (expressions.m1_D * expressions.m1_D))) / (expressions.n1_D - 1))
+/ sd2_D = sqrt((expressions.ss2_D - (expressions.n2_D * (expressions.m2_D * expressions.m2_D))) / (expressions.n2_D - 1))
+/ sd_D = sqrt((((expressions.n1_D - 1) * (expressions.sd1_D * expressions.sd1_D) + (expressions.n2_D - 1) * (expressions.sd2_D * expressions.sd2_D)) 
+				+ ((expressions.n1_D + expressions.n2_D) * ((expressions.m1_D - expressions.m2_D) * (expressions.m1_D - expressions.m2_D)) / 4) ) / (expressions.n1_D + expressions.n2_D - 1) )
+
+/ d_D = (expressions.m2_D - expressions.m1_D) / expressions.sd_D
+/ d_D_firsthalf = (expressions.m2_D_firsthalf-expressions.m1_D_firsthalf) / expressions.sd_D_firsthalf
+/ d_D_scdhalf = (expressions.m2_D_scdhalf-expressions.m1_D_scdhalf) / expressions.sd_D_scdhalf
+
+/ n_correct_D=values.n_correct_D_firsthalf + values.n_correct_D_scdhalf
+/ percentcorrect_D = (expressions.n_correct_D/ (expressions.n1_D + expressions.n2_D)) * 100
+/ sum_fast1_D=values.sum_fast1_D_firsthalf+values.sum_fast1_D_scdhalf
+/ sum_fast2_D=values.sum_fast2_D_firsthalf+ values.sum_fast2_D_scdhalf
+
+/ percentfast_D = ((expressions.sum_fast1_D + expressions.sum_fast2_D)/ (expressions.n1_D + expressions.n2_D)) * 100
+/ amountvalid_D = expressions.n1_D + expressions.n2_D
+/ feedback_time_D = (expressions.m1_D + expressions.m2_D) / 2
+</expressions>
+
+<values>
+/IAT_D = "D"
+</values>
+
+<expressions>
+/IATName_D = (values.IAT_D)
+</expressions>
+
+
+------------------------------------------ IAT E -------------------------------------------------------
+<values>
+/ sum1_E = 0
+/ sum2_E = 0
+
+/ magnitude_E = "unknown"
+
+
+/ preferred_E = "unknown"
+/ notpreferred_E = "unknown"
+/ IATorder_E = 0
+/ correct_E_test = 0 
+/ correct_E_inc_test=0
+
+/ sum1_E_firsthalf=0   
+/ sum1_E_scdhalf=0
+/ n1_E_firsthalf=0
+/ n1_E_scdhalf=0
+/ ss1_E_firsthalf=0
+/ ss1_E_scdhalf=0
+/ sum_fast1_E_firsthalf=0
+/ sum_fast1_E_scdhalf=0
+
+/ n_correct_E_firsthalf=0
+/ n_correct_E_scdhalf=0
+
+/ sum2_E_firsthalf=0   
+/ sum2_E_scdhalf=0
+/ n2_E_firsthalf=0
+/ n2_E_scdhalf=0
+/ ss2_E_firsthalf=0
+/ ss2_E_scdhalf=0
+/ sum_fast2_E_firsthalf=0
+/ sum_fast2_E_scdhalf=0
+
+</values>
+
+<expressions>
+/ m1_E_firsthalf=values.sum1_E_firsthalf / values.n1_E_firsthalf
+/ m1_E_scdhalf=values.sum1_E_scdhalf / values.n1_E_scdhalf
+/ m2_E_firsthalf=values.sum2_E_firsthalf / values.n2_E_firsthalf
+/ m2_E_scdhalf=values.sum2_E_scdhalf / values.n2_E_scdhalf
+
+
+/ m1_E = (values.sum1_E_firsthalf+values.sum1_E_scdhalf)/(values.n1_E_firsthalf+values.n1_E_scdhalf)
+/ m2_E = (values.sum2_E_firsthalf+values.sum2_E_scdhalf)/(values.n2_E_firsthalf+values.n2_E_scdhalf)
+
+/ sd1_E_firsthalf = sqrt((values.ss1_E_firsthalf - (values.n1_E_firsthalf * (expressions.m1_E_firsthalf * expressions.m1_E_firsthalf))) / (values.n1_E_firsthalf - 1))
+/ sd1_E_scdhalf = sqrt((values.ss1_E_scdhalf - (values.n1_E_scdhalf * (expressions.m1_E_scdhalf * expressions.m1_E_scdhalf))) / (values.n1_E_scdhalf - 1))
+/ sd2_E_firsthalf = sqrt((values.ss2_E_firsthalf - (values.n2_E_firsthalf * (expressions.m2_E_firsthalf * expressions.m2_E_firsthalf))) / (values.n2_E_firsthalf - 1))
+/ sd2_E_scdhalf = sqrt((values.ss2_E_scdhalf - (values.n2_E_scdhalf * (expressions.m2_E_scdhalf * expressions.m2_E_scdhalf))) / (values.n2_E_scdhalf - 1))
+/ sd_E_firsthalf= sqrt((((values.n1_E_firsthalf - 1) * (expressions.sd1_E_firsthalf * expressions.sd1_E_firsthalf) + (values.n2_E_firsthalf - 1) * (expressions.sd2_E_firsthalf * expressions.sd2_E_firsthalf)) 
+				+ ((values.n1_E_firsthalf + values.n2_E_firsthalf) * ((expressions.m1_E_firsthalf - expressions.m2_E_firsthalf) * (expressions.m1_E_firsthalf - expressions.m2_E_firsthalf)) / 4) ) / (values.n1_E_firsthalf + values.n2_E_firsthalf - 1) )
+/ sd_E_scdhalf = sqrt((((values.n1_E_scdhalf - 1) * (expressions.sd1_E_scdhalf * expressions.sd1_E_scdhalf) + (values.n2_E_scdhalf - 1) * (expressions.sd2_E_scdhalf * expressions.sd2_E_scdhalf)) 
+				+ ((values.n1_E_scdhalf + values.n2_E_scdhalf) * ((expressions.m1_E_scdhalf - expressions.m2_E_scdhalf) * (expressions.m1_E_scdhalf - expressions.m2_E_scdhalf)) / 4) ) / (values.n1_E_scdhalf + values.n2_E_scdhalf - 1) )
+
+
+/ ss1_E= expressions.sd1_E_firsthalf+expressions.sd1_E_scdhalf
+/ ss2_E= expressions.sd2_E_firsthalf+expressions.sd2_E_scdhalf
+/ n1_E= values.n1_E_firsthalf+values.n1_E_scdhalf
+/ n2_E= values.n2_E_firsthalf+values.n2_E_scdhalf
+
+/ sd1_E = sqrt((expressions.ss1_E - (expressions.n1_E * (expressions.m1_E * expressions.m1_E))) / (expressions.n1_E - 1))
+/ sd2_E = sqrt((expressions.ss2_E - (expressions.n2_E * (expressions.m2_E * expressions.m2_E))) / (expressions.n2_E - 1))
+/ sd_E = sqrt((((expressions.n1_E - 1) * (expressions.sd1_E * expressions.sd1_E) + (expressions.n2_E - 1) * (expressions.sd2_E * expressions.sd2_E)) 
+				+ ((expressions.n1_E + expressions.n2_E) * ((expressions.m1_E - expressions.m2_E) * (expressions.m1_E - expressions.m2_E)) / 4) ) / (expressions.n1_E + expressions.n2_E - 1) )
+
+/ d_E = (expressions.m2_E - expressions.m1_E) / expressions.sd_E
+/ d_E_firsthalf = (expressions.m2_E_firsthalf-expressions.m1_E_firsthalf) / expressions.sd_E_firsthalf
+/ d_E_scdhalf = (expressions.m2_E_scdhalf-expressions.m1_E_scdhalf) / expressions.sd_E_scdhalf
+
+/ n_correct_E=values.n_correct_E_firsthalf + values.n_correct_E_scdhalf
+/ percentcorrect_E = (expressions.n_correct_E/ (expressions.n1_E + expressions.n2_E)) * 100
+/ sum_fast1_E=values.sum_fast1_E_firsthalf+values.sum_fast1_E_scdhalf
+/ sum_fast2_E=values.sum_fast2_E_firsthalf+ values.sum_fast2_E_scdhalf
+
+/ percentfast_E = ((expressions.sum_fast1_E + expressions.sum_fast2_E)/ (expressions.n1_E + expressions.n2_E)) * 100
+/ amountvalid_E = expressions.n1_E + expressions.n2_E
+/ feedback_time_E = (expressions.m1_E + expressions.m2_E) / 2
+</expressions>
+
+<values>
+/IAT_E = "E"
+</values>
+
+<expressions>
+/IATName_E = (values.IAT_E)
+</expressions>
+
+
+
+**************************************************************************************************************
+**************************************************************************************************************
+	Instruktionen
+**************************************************************************************************************
+**************************************************************************************************************
+
+
+****gilt für alle IATS****
+<text spacebar>
+/ items = spacebar
+/ position = (50%, 50%)
+/ fontstyle = ("Arial", 4%)
+/ valign = bottom
+/ txcolor = lightskyblue
+</text>
+****gilt für alle IATS****
+
+<text instructions1_A>
+/ items = instructions1_A
+/ hjustify = center
+/ vjustify = center
+/ size = (70%, 40%)
+</text> 
+
+<text instructions2_A>
+/ items = instructions2_A
+/ hjustify = center
+/ vjustify = center
+/ size = (81%, 40%)
+</text> 
+
+<text instructions3_A>
+/ items = instructions3_A
+/ hjustify = center
+/ vjustify = center
+/ size = (76%, 40%)
+</text> 
+
+<text instructions4_A>
+/ items = instructions4_A
+/ hjustify = center
+/ vjustify = center
+/ size = (81%, 40%)
+</text> 
+
+----------------
+<text instructions1_B>
+/ items = instructions1_B
+/ hjustify = center
+/ vjustify = center
+/ size = (70%, 40%)
+</text> 
+
+<text instructions2_B>
+/ items = instructions2_B
+/ hjustify = center
+/ vjustify = center
+/ size = (81%, 40%)
+</text> 
+
+<text instructions3_B>
+/ items = instructions3_B
+/ hjustify = center
+/ vjustify = center
+/ size = (76%, 40%)
+</text> 
+
+<text instructions4_B>
+/ items = instructions4_B
+/ hjustify = center
+/ vjustify = center
+/ size = (81%, 40%)
+</text> 
+
+
+
+----------------
+<text instructions1_C>
+/ items = instructions1_C
+/ hjustify = center
+/ vjustify = center
+/ size = (70%, 40%)
+</text> 
+
+<text instructions2_C>
+/ items = instructions2_C
+/ hjustify = center
+/ vjustify = center
+/ size = (81%, 40%)
+</text> 
+
+<text instructions3_C>
+/ items = instructions3_C
+/ hjustify = center
+/ vjustify = center
+/ size = (76%, 40%)
+</text> 
+
+<text instructions4_C>
+/ items = instructions4_C
+/ hjustify = center
+/ vjustify = center
+/ size = (81%, 40%)
+</text> 
+
+
+----------------
+<text instructions1_D>
+/ items = instructions1_D
+/ hjustify = center
+/ vjustify = center
+/ size = (70%, 40%)
+</text> 
+
+<text instructions2_D>
+/ items = instructions2_D
+/ hjustify = center
+/ vjustify = center
+/ size = (81%, 40%)
+</text> 
+
+<text instructions3_D>
+/ items = instructions3_D
+/ hjustify = center
+/ vjustify = center
+/ size = (76%, 40%)
+</text> 
+
+<text instructions4_D>
+/ items = instructions4_D
+/ hjustify = center
+/ vjustify = center
+/ size = (81%, 40%)
+</text> 
+
+
+
+----------------
+<text instructions1_E>
+/ items = instructions1_E
+/ hjustify = center
+/ vjustify = center
+/ size = (70%, 40%)
+</text> 
+
+<text instructions2_E>
+/ items = instructions2_E
+/ hjustify = center
+/ vjustify = center
+/ size = (81%, 40%)
+</text> 
+
+<text instructions3_E>
+/ items = instructions3_E
+/ hjustify = center
+/ vjustify = center
+/ size = (76%, 40%)
+</text> 
+
+<text instructions4_E>
+/ items = instructions4_E
+/ hjustify = center
+/ vjustify = center
+/ size = (81%, 40%)
+</text> 
+
+
+
+ *****gilt für alle IATS***** 
+<trial spacebar>
+/ stimulustimes = [1=spacebar]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+ *****gilt für alle IATS***** 
+
+<trial instructions1_A>
+/ stimulustimes = [1=instructions1_A]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions2_A>
+/ stimulustimes = [1=instructions2_A]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions3_A>
+/ stimulustimes = [1=instructions3_A]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions4_A>
+/ stimulustimes = [1=instructions4_A]
+/ correctresponse = (" ")
+/ validresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+-------------------------------------------------------------
+
+<trial instructions1_B>
+/ stimulustimes = [1=instructions1_B]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions2_B>
+/ stimulustimes = [1=instructions2_B]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions3_B>
+/ stimulustimes = [1=instructions3_B]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions4_B>
+/ stimulustimes = [1=instructions4_B]
+/ correctresponse = (" ")
+/ validresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+
+-------------------------------------------------------------
+
+<trial instructions1_C>
+/ stimulustimes = [1=instructions1_C]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions2_C>
+/ stimulustimes = [1=instructions2_C]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions3_C>
+/ stimulustimes = [1=instructions3_C]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions4_C>
+/ stimulustimes = [1=instructions4_C]
+/ correctresponse = (" ")
+/ validresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+
+
+-------------------------------------------------------------
+
+<trial instructions1_D>
+/ stimulustimes = [1=instructions1_D]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions2_D>
+/ stimulustimes = [1=instructions2_D]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions3_D>
+/ stimulustimes = [1=instructions3_D]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions4_D>
+/ stimulustimes = [1=instructions4_D]
+/ correctresponse = (" ")
+/ validresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+
+
+-------------------------------------------------------------
+
+<trial instructions1_E>
+/ stimulustimes = [1=instructions1_E]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions2_E>
+/ stimulustimes = [1=instructions2_E]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions3_E>
+/ stimulustimes = [1=instructions3_E]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructions4_E>
+/ stimulustimes = [1=instructions4_E]
+/ correctresponse = (" ")
+/ validresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+
+
+ 
+Art der Stimuli-Präsentation 
+ 
+ 
+ <text femaleWords_A>
+ /items = femaleWords_A
+ /select = noreplace
+ /position = (50, 50)
+ /fontstyle = ("Arial", 5%)
+ /txcolor = lightskyblue
+ </text>
+ 
+ <text maleWords_A>
+ /items = maleWords_A
+ /select = noreplace
+ /position = (50, 50)
+ /fontstyle = ("Arial", 5%)
+ /txcolor = lightskyblue
+ </text>
+
+ <text femaleWords_B>
+ /items = femaleWords_B
+ /select = noreplace
+ /position = (50, 50)
+ /fontstyle = ("Arial", 5%)
+ /txcolor = lightskyblue
+ </text>
+ 
+ <text maleWords_B>
+ /items = maleWords_B
+ /select = noreplace
+ /position = (50, 50)
+ /fontstyle = ("Arial", 5%)
+ /txcolor = lightskyblue
+ </text>
+ <text femaleWords_C>
+ /items = femaleWords_C
+ /select = noreplace
+ /position = (50, 50)
+ /fontstyle = ("Arial", 5%)
+ /txcolor = lightskyblue
+ </text>
+ <text maleWords_C>
+ /items = maleWords_C
+ /select = noreplace
+ /position = (50, 50)
+ /fontstyle = ("Arial", 5%)
+ /txcolor = lightskyblue
+ </text>
+ <text femaleWords_D>
+ /items = femaleWords_D
+ /select = noreplace
+ /position = (50, 50)
+ /fontstyle = ("Arial", 5%)
+ /txcolor = lightskyblue
+ </text>
+ <text maleWords_D>
+ /items = maleWords_D
+ /select = noreplace
+ /position = (50, 50)
+ /fontstyle = ("Arial", 5%)
+ /txcolor = lightskyblue
+ </text>
+ <text femaleWords_E>
+ /items = femaleWords_E
+ /select = noreplace
+ /position = (50, 50)
+ /fontstyle = ("Arial", 5%)
+ /txcolor = lightskyblue
+ </text>
+ <text maleWords_E>
+ /items = maleWords_E
+ /select = noreplace
+ /position = (50, 50)
+ /fontstyle = ("Arial", 5%)
+ /txcolor = lightskyblue
+ </text>
+
+ 
+ <picture FemalePics_A>
+ /items = femaleFaces_A
+ /select = noreplace
+ /position = (50, 50)
+ </picture>
+ 
+ <picture MalePics_A>
+ /items = maleFaces_A
+ /select = noreplace
+ /position = (50, 50)
+ </picture>
+ 
+  <picture FemalePics_B>
+ /items = femaleFaces_B
+ /select = noreplace
+ /position = (50, 50)
+ </picture>
+ 
+ <picture MalePics_B>
+ /items = maleFaces_B
+ /select = noreplace
+ /position = (50, 50)
+ </picture>
+ 
+  <picture FemalePics_C>
+ /items = femaleFaces_C
+ /select = noreplace
+ /position = (50, 50)
+ </picture>
+ 
+ <picture MalePics_C>
+ /items = maleFaces_C
+ /select = noreplace
+ /position = (50, 50)
+ </picture>
+ 
+  <picture FemalePics_D>
+ /items = femaleFaces_D
+ /select = noreplace
+ /position = (50, 50)
+ </picture>
+ 
+ <picture MalePics_D>
+ /items = maleFaces_D
+ /select = noreplace
+ /position = (50, 50)
+ </picture>
+ 
+  <picture FemalePics_E>
+ /items = femaleFaces_E
+ /select = noreplace
+ /position = (50, 50)
+ </picture>
+ 
+ <picture MalePics_E>
+ /items = maleFaces_E
+ /select = noreplace
+ /position = (50, 50)
+ </picture>
+  
+ *****gilt für alle IATS***** 
+ <text error>
+ /items = ("X")
+ /select = noreplace
+ /position = (50, 22)
+ /txcolor = red
+ /fontstyle = ("Arial", 15%, true)
+ </text>
+ *****gilt für alle IATS*****
+ 
+ Reminder in jedem Block  
+
+<text singlereminder_maleWords_Aleft>
+/ items = maleStereotypesLabel_A
+/ valign = center
+/ halign = center	
+/ position = (12%, 12%)
+/ txcolor =  khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text singlereminder_maleWords_Aright>
+/ items = maleStereotypesLabel_A
+/ valign = center
+/ halign = center
+/ position = (88%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text singlereminder_femaleWords_Aleft>
+/ items = femaleStereotypesLabel_A
+/ valign = center
+/ halign = center
+/ position = (12%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text singlereminder_femaleWords_Aright>
+/ items = femaleStereotypesLabel_A
+/ valign = center
+/ halign = center
+/ position = (88%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+ 
+<text reminder_maleWords_Aleft>
+/ items = maleStereotypesLabel_A
+/ valign = center
+/ halign = center	
+/ position = (12%, 7.5%)
+/ txcolor =  khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text reminder_maleWords_Aright>
+/ items = maleStereotypesLabel_A
+/ valign = center
+/ halign = center
+/ position = (88%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text reminder_femaleWords_Aleft>
+/ items = femaleStereotypesLabel_A
+/ valign = center
+/ halign = center
+/ position = (12%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text reminder_femaleWords_Aright>
+/ items = femaleStereotypesLabel_A
+/ valign = center
+/ halign = center
+/ position = (88%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+--------------iat b-------------------------
+
+<text singlereminder_maleWords_Bleft>
+/ items = maleStereotypesLabel_B
+/ valign = center
+/ halign = center	
+/ position = (12%, 12%)
+/ txcolor =  khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+<text singlereminder_maleWords_Bright>
+/ items = maleStereotypesLabel_B
+/ valign = center
+/ halign = center
+/ position = (88%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text singlereminder_femaleWords_Bleft>
+/ items = femaleStereotypesLabel_B
+/ valign = center
+/ halign = center
+/ position = (12%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+<text singlereminder_femaleWords_Bright>
+/ items = femaleStereotypesLabel_B
+/ valign = center
+/ halign = center
+/ position = (88%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+<text reminder_maleWords_Bleft>
+/ items = maleStereotypesLabel_B
+/ valign = center
+/ halign = center	
+/ position = (12%, 7.5%)
+/ txcolor =  khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+<text reminder_maleWords_Bright>
+/ items = maleStereotypesLabel_B
+/ valign = center
+/ halign = center
+/ position = (88%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+<text reminder_femaleWords_Bleft>
+/ items = femaleStereotypesLabel_B
+/ valign = center
+/ halign = center
+/ position = (12%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+<text reminder_femaleWords_Bright>
+/ items = femaleStereotypesLabel_B
+/ valign = center
+/ halign = center
+/ position = (88%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+-----------------iat c----------------------
+<text singlereminder_maleWords_Cleft>
+/ items = maleStereotypesLabel_C
+/ valign = center
+/ halign = center	
+/ position = (15%, 12%)
+/ txcolor =  khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text singlereminder_maleWords_Cright>
+/ items = maleStereotypesLabel_C
+/ valign = center
+/ halign = center
+/ position = (85%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text singlereminder_femaleWords_Cleft>
+/ items = femaleStereotypesLabel_C
+/ valign = center
+/ halign = center
+/ position = (16%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text singlereminder_femaleWords_Cright>
+/ items = femaleStereotypesLabel_C
+/ valign = center
+/ halign = center
+/ position = (84%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+ 
+<text reminder_maleWords_Cleft>
+/ items = maleStereotypesLabel_C
+/ valign = center
+/ halign = center	
+/ position = (15%, 7.5%)
+/ txcolor =  khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text reminder_maleWords_Cright>
+/ items = maleStereotypesLabel_C
+/ valign = center
+/ halign = center
+/ position = (85%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text reminder_femaleWords_Cleft>
+/ items = femaleStereotypesLabel_C
+/ valign = center
+/ halign = center
+/ position = (16%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text reminder_femaleWords_Cright>
+/ items = femaleStereotypesLabel_C
+/ valign = center
+/ halign = center
+/ position = (84%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+-------------iat d--------------------------
+
+<text singlereminder_maleWords_Dleft>
+/ items = maleStereotypesLabel_D
+/ valign = center
+/ halign = center	
+/ position = (12%, 12%)
+/ txcolor =  khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text singlereminder_maleWords_Dright>
+/ items = maleStereotypesLabel_D
+/ valign = center
+/ halign = center
+/ position = (88%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text singlereminder_femaleWords_Dleft>
+/ items = femaleStereotypesLabel_D
+/ valign = center
+/ halign = center
+/ position = (12%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text singlereminder_femaleWords_Dright>
+/ items = femaleStereotypesLabel_D
+/ valign = center
+/ halign = center
+/ position = (88%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+ 
+<text reminder_maleWords_Dleft>
+/ items = maleStereotypesLabel_D
+/ valign = center
+/ halign = center	
+/ position = (12%, 7.5%)
+/ txcolor =  khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text reminder_maleWords_Dright>
+/ items = maleStereotypesLabel_D
+/ valign = center
+/ halign = center
+/ position = (88%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text reminder_femaleWords_Dleft>
+/ items = femaleStereotypesLabel_D
+/ valign = center
+/ halign = center
+/ position = (12%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text reminder_femaleWords_Dright>
+/ items = femaleStereotypesLabel_D
+/ valign = center
+/ halign = center
+/ position = (88%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+------------------iat e---------------------
+<text singlereminder_maleWords_Eleft>
+/ items = maleStereotypesLabel_E
+/ valign = center
+/ halign = center	
+/ position = (15%, 12%)
+/ txcolor =  khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+<text singlereminder_maleWords_Eright>
+/ items = maleStereotypesLabel_E
+/ valign = center
+/ halign = center
+/ position = (85%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text singlereminder_femaleWords_Eleft>
+/ items = femaleStereotypesLabel_E
+/ valign = center
+/ halign = center
+/ position = (15%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text singlereminder_femaleWords_Eright>
+/ items = femaleStereotypesLabel_E
+/ valign = center
+/ halign = center
+/ position = (85%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+ 
+<text reminder_maleWords_Eleft>
+/ items = maleStereotypesLabel_E
+/ valign = center
+/ halign = center	
+/ position = (15%, 7.5%)
+/ txcolor =  khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text reminder_maleWords_Eright>
+/ items = maleStereotypesLabel_E
+/ valign = center
+/ halign = center
+/ position = (85%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text reminder_femaleWords_Eleft>
+/ items = femaleStereotypesLabel_E
+/ valign = center
+/ halign = center
+/ position = (15%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text reminder_femaleWords_Eright>
+/ items = femaleStereotypesLabel_E
+/ valign = center
+/ halign = center
+/ position = (85%, 7.5%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+
+****gilt für alle IATS****
+<text reminder_MaleFacesleft>
+ /items = maleFacesLabel_A
+ /valign = center
+ /halign = center 
+ /position = (12%, 17%)
+ /txcolor = khaki
+ /fontstyle = ("Arial", 5%)
+ </text>
+ 
+ <text reminder_femaleFacesright>
+/ items = femaleFacesLabel_A
+/ valign = center
+/ halign = center
+/ position = (88%, 17%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 5%)
+</text>
+
+<text reminder_oderleft>
+/ items = ("oder")
+/ valign = center
+/ halign = center
+/ position = (12%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+
+<text reminder_oderright>
+/ items = ("oder")
+/ valign = center
+/ halign = center
+/ position = (88%, 12%)
+/ txcolor = khaki
+/ fontstyle = ("Arial", 4%)
+</text>
+ ****gilt für alle IATS****
+
+ Trials
+ 
+ <trial femaleWords_Aright>
+ /stimulusframes = [1 = femaleWords_A]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial femaleWords_Aleft>
+ /stimulusframes = [1 = femaleWords_A]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial maleWords_Aleft>
+ /stimulusframes = [1 = maleWords_A]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial maleWords_Aright>
+ /stimulusframes = [1 = maleWords_A]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ 
+
+ <trial femaleFaces_Aright>
+ /stimulusframes = [1 = FemalePics_A]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+  <trial maleFaces_Aleft>
+ /stimulusframes = [1 = MalePics_A]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ 
+ 
+ ----------------------- iat b -------------------------------------------------
+  
+ <trial femaleWords_Bright>
+ /stimulusframes = [1 = femaleWords_B]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial femaleWords_Bleft>
+ /stimulusframes = [1 = femaleWords_B]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial maleWords_Bleft>
+ /stimulusframes = [1 = maleWords_B]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial maleWords_Bright>
+ /stimulusframes = [1 = maleWords_B]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial femaleFaces_Bright>
+ /stimulusframes = [1 = FemalePics_B]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+  <trial maleFaces_Bleft>
+ /stimulusframes = [1 = MalePics_B]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial> 
+  ----------------------- iat c -------------------------------------------------
+  <trial femaleWords_Cright>
+ /stimulusframes = [1 = femaleWords_C]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial femaleWords_Cleft>
+ /stimulusframes = [1 = femaleWords_C]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial maleWords_Cleft>
+ /stimulusframes = [1 = maleWords_C]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial maleWords_Cright>
+ /stimulusframes = [1 = maleWords_C]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+  <trial femaleFaces_Cright>
+ /stimulusframes = [1 = FemalePics_C]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+  <trial maleFaces_Cleft>
+ /stimulusframes = [1 = MalePics_C]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial> 
+ ----------------------- iat D -------------------------------------------------
+  
+ <trial femaleWords_Dright>
+ /stimulusframes = [1 = femaleWords_D]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial femaleWords_Dleft>
+ /stimulusframes = [1 = femaleWords_D]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial maleWords_Dleft>
+ /stimulusframes = [1 = maleWords_D]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial maleWords_Dright>
+ /stimulusframes = [1 = maleWords_D]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial femaleFaces_Dright>
+ /stimulusframes = [1 = FemalePics_D]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+  <trial maleFaces_Dleft>
+ /stimulusframes = [1 = MalePics_D]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial> 
+ ----------------------- iat E -------------------------------------------------
+  <trial femaleWords_Eright>
+ /stimulusframes = [1 = femaleWords_E]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial femaleWords_Eleft>
+ /stimulusframes = [1 = femaleWords_E]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial maleWords_Eleft>
+ /stimulusframes = [1 = maleWords_E]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+  <trial maleWords_Eright>
+ /stimulusframes = [1 = maleWords_E]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+<trial femaleFaces_Eright>
+ /stimulusframes = [1 = FemalePics_E]
+ /validresponse = ("a", "5")
+ /correctresponse = ("5")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial>
+ 
+ <trial maleFaces_Eleft>
+ /stimulusframes = [1 = MalePics_E]
+ /validresponse = ("a", "5")
+ /correctresponse = ("a")
+ /errormessage = true(error, 1000)
+ /posttrialpause = 250
+ </trial> 
+ ------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+ values.IATorder_As = script.currentblocknumber
+  ***Blöcke erster IAT****
+  ------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------------------
+ 
+  <block stereotypes_A>
+/ bgstim = (singlereminder_femaleWords_Aright, singlereminder_maleWords_Aleft)
+/ trials = [1=instructions1_A; 2=spacebar;
+  3-12= random(maleWords_Aleft, femaleWords_Aright)]
+/branch = [if(block.stereotypes_A)block.compatibletestinstructions_a]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ onblockend = [values.iatorder_a += script.currentblocknumber]
+</block>
+
+******* Zahras Test mit Split Half D-Scores
+
+<block pictures_words_compatible_A>
+/ bgstim = (reminder_femaleWords_Aright, reminder_femaleFacesright, reminder_oderright, reminder_maleWords_Aleft, reminder_maleFacesleft, reminder_oderleft)
+/ trials = [
+  2,4,6,8,10,12,14,16,18,20 = random(maleWords_Aleft, femaleWords_Aright);
+  1,3,5,7,9,11,13,15,17,19 = random(maleFaces_Aleft, femaleFaces_Aright)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ branch = [if(block.stereotypes_A)block.stereotypes_reverse_A]
+/ ontrialend = [values.correct_A_test = block.pictures_words_compatible_A.correctcount]
+/ ontrialend= [if (block.pictures_words_compatible_A.trialcount <11 )
+				{
+					if(block.pictures_words_compatible_A.latency  <= 10000)
+					{
+						values.sum1_A_firsthalf =  values.sum1_A_firsthalf + block.pictures_words_compatible_A.latency*block.pictures_words_compatible_A.correct;
+						values.n1_A_firsthalf += 1;
+						values.ss1_A_firsthalf =  values.ss1_A_firsthalf + (block.pictures_words_compatible_A.latency * block.pictures_words_compatible_A.latency*block.pictures_words_compatible_A.correct);
+						values.n_correct_A_firsthalf += block.pictures_words_compatible_A.correct;
+					}
+					if(block.pictures_words_compatible_A.latency  <= 300) 
+					{
+						values.sum_fast1_A_firsthalf += 1;
+					}
+				}
+					
+					else
+						{   			
+						if(block.pictures_words_compatible_A.latency  <= 10000)
+							{
+								values.sum1_A_scdhalf =  values.sum1_A_scdhalf + block.pictures_words_compatible_A.latency;
+								values.n1_A_scdhalf += 1;
+								values.ss1_A_scdhalf =  values.ss1_A_scdhalf + (block.pictures_words_compatible_A.latency * block.pictures_words_compatible_A.latency);
+								values.n_correct_A_scdhalf += block.pictures_words_compatible_A.correct;
+							}
+						if(block.pictures_words_compatible_A.latency  <= 300) 
+								{
+									values.sum_fast1_A_scdhalf += 1;
+								}
+										
+						}
+			]
+</block>
+
+<block stereotypes_reverse_A>
+/ bgstim = (singlereminder_femaleWords_Aleft, singlereminder_maleWords_Aright)
+/ trials = [1=instructions3_A; 2=spacebar;
+  3-12= random(maleWords_Aright, femaleWords_Aleft)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ branch = [if(block.stereotypes_A)block.incompatibletestinstructions_A]
+</block>
+
+ 
+<block pictures_words_incompatible_A>
+/ bgstim = (reminder_maleWords_Aright, reminder_femaleFacesright, reminder_oderright, reminder_femaleWords_Aleft, reminder_maleFacesleft, reminder_oderleft)
+/ trials = [
+  2,4,6,8,10,12,14,16,18,20 = random(maleWords_Aright, femaleWords_Aleft);
+  1,3,5,7,9,11,13,15,17,19 = random(maleFaces_Aleft, femaleFaces_Aright)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ontrialend= [values.correct_A_inc_test=block.pictures_words_incompatible_A.correctcount]
+/ ontrialend= [if (block.pictures_words_incompatible_A.trialcount <11 )
+				{					
+					if(block.pictures_words_incompatible_A.latency  <= 10000)
+					{
+						values.sum2_A_firsthalf =  values.sum2_A_firsthalf + block.pictures_words_incompatible_A.latency*block.pictures_words_incompatible_A.correct;
+						values.n2_A_firsthalf += 1;
+						values.ss2_A_firsthalf =  values.ss2_A_firsthalf + (block.pictures_words_incompatible_A.latency * block.pictures_words_incompatible_A.latency*block.pictures_words_incompatible_A.correct);
+						values.n_correct_A_firsthalf += block.pictures_words_incompatible_A.correct;
+					}
+					if(block.pictures_words_incompatible_A.latency  <= 300) 
+					{
+						values.sum_fast2_A_firsthalf += 1;
+					}
+					
+				}
+					
+					else
+						{   
+						if(block.pictures_words_incompatible_A.latency  <= 10000)
+							{
+								values.sum2_A_scdhalf =  values.sum2_A_scdhalf + block.pictures_words_incompatible_A.latency;
+								values.n2_A_scdhalf += 1;
+								values.ss2_A_scdhalf =  values.ss2_A_scdhalf + (block.pictures_words_incompatible_A.latency * block.pictures_words_incompatible_A.latency);
+								values.n_correct_A_scdhalf += block.pictures_words_incompatible_A.correct;
+							}
+						if(block.pictures_words_incompatible_A.latency  <= 300) 
+								{
+									values.sum_fast2_A_scdhalf += 1;
+								}					
+						}
+			]
+			
+
+</block>
+
+
+<block compatibletestinstructions_A>
+/ bgstim = (reminder_femaleWords_Aright, reminder_FemaleFacesright, reminder_oderright, reminder_maleWords_Aleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=instructions2_A]
+/ branch = [if(block.stereotypes_A)block.spacebar_compatible_A]
+/ recorddata = false
+</block>
+
+<block incompatibletestinstructions_A>
+/ bgstim = (reminder_maleWords_Aright, reminder_FemaleFacesright, reminder_oderright, reminder_femaleWords_Aleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=instructions4_A]
+/ recorddata = false
+/ branch = [if(block.stereotypes_A)block.spacebar_incompatible_A]
+</block>
+
+<block spacebar_compatible_A>
+/ bgstim = (reminder_femaleWords_Aright, reminder_FemaleFacesright, reminder_oderright, reminder_maleWords_Aleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=spacebar]
+/ recorddata = false
+/ branch = [if(block.stereotypes_A)block.pictures_words_compatible_A]
+</block>
+
+<block spacebar_incompatible_A>
+/ bgstim = (reminder_maleWords_Aright, reminder_FemaleFacesright, reminder_oderright, reminder_femaleWords_Aleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=spacebar]
+/ recorddata = false
+/ branch = [if(block.stereotypes_A)block.pictures_words_incompatible_A]
+</block>
+
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+								***Blöcke zweiter IAT****
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+  
+  <block stereotypes_B>
+/ bgstim = (singlereminder_femaleWords_Bright, singlereminder_maleWords_Bleft)
+/ trials = [1=instructions1_B; 2=spacebar;
+  3-12= random(maleWords_Bleft, femaleWords_Bright)]
+/branch = [if(block.stereotypes_B)block.compatibletestinstructions_B]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ onblockend = [values.iatorder_B += script.currentblocknumber]
+</block>
+<block pictures_words_compatible_B>
+/ bgstim = (reminder_femaleWords_Bright, reminder_femaleFacesright, reminder_oderright, reminder_maleWords_Bleft, reminder_maleFacesleft, reminder_oderleft)
+/ trials = [
+  2,4,6,8,10,12,14,16,18,20 = random(maleWords_Bleft, femaleWords_Bright);
+  1,3,5,7,9,11,13,15,17,19 = random(maleFaces_Bleft, femaleFaces_Bright)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ branch = [if(block.stereotypes_B)block.stereotypes_reverse_B]
+/ ontrialend = [values.correct_B_test = block.pictures_words_compatible_B.correctcount]
+/ ontrialend= [if (block.pictures_words_compatible_B.trialcount <11 )
+				{
+					if(block.pictures_words_compatible_B.latency  <= 10000)
+					{
+						values.sum1_B_firsthalf =  values.sum1_B_firsthalf + block.pictures_words_compatible_B.latency*block.pictures_words_compatible_B.correct;
+						values.n1_B_firsthalf += 1;
+						values.ss1_B_firsthalf =  values.ss1_B_firsthalf + (block.pictures_words_compatible_B.latency * block.pictures_words_compatible_B.latency*block.pictures_words_compatible_B.correct);
+						values.n_correct_B_firsthalf += block.pictures_words_compatible_B.correct;
+					}
+					if(block.pictures_words_compatible_B.latency  <= 300) 
+					{
+						values.sum_fast1_B_firsthalf += 1;
+					}
+				}
+					
+					else
+						{   			
+						if(block.pictures_words_compatible_B.latency  <= 10000)
+							{
+								values.sum1_B_scdhalf =  values.sum1_B_scdhalf + block.pictures_words_compatible_B.latency;
+								values.n1_B_scdhalf += 1;
+								values.ss1_B_scdhalf =  values.ss1_B_scdhalf + (block.pictures_words_compatible_B.latency * block.pictures_words_compatible_B.latency);
+								values.n_correct_B_scdhalf += block.pictures_words_compatible_B.correct;
+							}
+						if(block.pictures_words_compatible_B.latency  <= 300) 
+								{
+									values.sum_fast1_B_scdhalf += 1;
+								}						
+						}
+			]
+</block>
+
+<block stereotypes_reverse_B>
+/ bgstim = (singlereminder_femaleWords_Bleft, singlereminder_maleWords_Bright)
+/ trials = [1=instructions3_B; 2=spacebar;
+  3-12= random(maleWords_Bright, femaleWords_Bleft)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ branch = [if(block.stereotypes_B)block.incompatibletestinstructions_B]
+</block>
+ 
+<block pictures_words_incompatible_B>
+/ bgstim = (reminder_maleWords_Bright, reminder_femaleFacesright, reminder_oderright, reminder_femaleWords_Bleft, reminder_maleFacesleft, reminder_oderleft)
+/ trials = [
+  2,4,6,8,10,12,14,16,18,20 = random(maleWords_Bright, femaleWords_Bleft);
+  1,3,5,7,9,11,13,15,17,19 = random(maleFaces_Bleft, femaleFaces_Bright)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ontrialend= [values.correct_B_inc_test=block.pictures_words_incompatible_B.correctcount]
+/ ontrialend= [if (block.pictures_words_incompatible_B.trialcount <11 )
+				{					
+					if(block.pictures_words_incompatible_B.latency  <= 10000)
+					{
+						values.sum2_B_firsthalf =  values.sum2_B_firsthalf + block.pictures_words_incompatible_B.latency*block.pictures_words_incompatible_B.correct;
+						values.n2_B_firsthalf += 1;
+						values.ss2_B_firsthalf =  values.ss2_B_firsthalf + (block.pictures_words_incompatible_B.latency * block.pictures_words_incompatible_B.latency*block.pictures_words_incompatible_B.correct);
+						values.n_correct_B_firsthalf += block.pictures_words_incompatible_B.correct;
+					}
+					if(block.pictures_words_incompatible_B.latency  <= 300) 
+					{
+						values.sum_fast2_B_firsthalf += 1;
+					}
+					
+				}		
+					else
+						{   
+						if(block.pictures_words_incompatible_B.latency  <= 10000)
+							{
+								values.sum2_B_scdhalf =  values.sum2_B_scdhalf + block.pictures_words_incompatible_B.latency;
+								values.n2_B_scdhalf += 1;
+								values.ss2_B_scdhalf =  values.ss2_B_scdhalf + (block.pictures_words_incompatible_B.latency * block.pictures_words_incompatible_B.latency);
+								values.n_correct_B_scdhalf += block.pictures_words_incompatible_B.correct;
+							}
+						if(block.pictures_words_incompatible_B.latency  <= 300) 
+								{
+									values.sum_fast2_B_scdhalf += 1;
+								}					
+						}
+			]
+</block>
+
+<block compatibletestinstructions_B>
+/ bgstim = (reminder_femaleWords_Bright, reminder_FemaleFacesright, reminder_oderright, reminder_maleWords_Bleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=instructions2_B]
+/ branch = [if(block.stereotypes_B)block.spacebar_compatible_B]
+/ recorddata = false
+</block>
+
+<block incompatibletestinstructions_B>
+/ bgstim = (reminder_maleWords_Bright, reminder_FemaleFacesright, reminder_oderright, reminder_femaleWords_Bleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=instructions4_B]
+/ recorddata = false
+/ branch = [if(block.stereotypes_B)block.spacebar_incompatible_B]
+</block>
+
+<block spacebar_compatible_B>
+/ bgstim = (reminder_femaleWords_Bright, reminder_FemaleFacesright, reminder_oderright, reminder_maleWords_Bleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=spacebar]
+/ recorddata = false
+/ branch = [if(block.stereotypes_B)block.pictures_words_compatible_B]
+</block>
+
+<block spacebar_incompatible_B>
+/ bgstim = (reminder_maleWords_Bright, reminder_FemaleFacesright, reminder_oderright, reminder_femaleWords_Bleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=spacebar]
+/ recorddata = false
+/ branch = [if(block.stereotypes_B)block.pictures_words_incompatible_B]
+</block>  
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+								***Blöcke dritter IAT****
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+  <block stereotypes_C>
+/ bgstim = (singlereminder_femaleWords_Cright, singlereminder_maleWords_Cleft)
+/ trials = [1=instructions1_C; 2=spacebar;
+  3-12= random(maleWords_cleft, femaleWords_Cright)]
+/branch = [if(block.stereotypes_C)block.compatibletestinstructions_C]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ onblockend = [values.iatorder_C += script.currentblocknumber]
+</block>  
+    
+<block pictures_words_compatible_C>
+/ bgstim = (reminder_femaleWords_Cright, reminder_femaleFacesright, reminder_oderright, reminder_maleWords_Cleft, reminder_maleFacesleft, reminder_oderleft)
+/ trials = [
+  2,4,6,8,10,12,14,16,18,20 = random(maleWords_Cleft, femaleWords_Cright);
+  1,3,5,7,9,11,13,15,17,19 = random(maleFaces_Cleft, femaleFaces_Cright)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ branch = [if(block.stereotypes_C)block.stereotypes_reverse_C]
+/ ontrialend = [values.correct_C_test = block.pictures_words_compatible_C.correctcount]
+/ ontrialend= [if (block.pictures_words_compatible_C.trialcount <11 )
+				{
+					if(block.pictures_words_compatible_C.latency  <= 10000)
+					{
+						values.sum1_C_firsthalf =  values.sum1_C_firsthalf + block.pictures_words_compatible_C.latency*block.pictures_words_compatible_C.correct;
+						values.n1_C_firsthalf += 1;
+						values.ss1_C_firsthalf =  values.ss1_C_firsthalf + (block.pictures_words_compatible_C.latency * block.pictures_words_compatible_C.latency*block.pictures_words_compatible_C.correct);
+						values.n_correct_C_firsthalf += block.pictures_words_compatible_C.correct;
+					}
+					if(block.pictures_words_compatible_C.latency  <= 300) 
+					{
+						values.sum_fast1_C_firsthalf += 1;
+					}
+				}
+					
+					else
+						{   			
+						if(block.pictures_words_compatible_C.latency  <= 10000)
+							{
+								values.sum1_C_scdhalf =  values.sum1_C_scdhalf + block.pictures_words_compatible_C.latency;
+								values.n1_C_scdhalf += 1;
+								values.ss1_C_scdhalf =  values.ss1_C_scdhalf + (block.pictures_words_compatible_C.latency * block.pictures_words_compatible_C.latency);
+								values.n_correct_C_scdhalf += block.pictures_words_compatible_C.correct;
+							}
+						if(block.pictures_words_compatible_C.latency  <= 300) 
+								{
+									values.sum_fast1_C_scdhalf += 1;
+								}						
+						}
+			]
+</block>
+
+<block stereotypes_reverse_C>
+/ bgstim = (singlereminder_femaleWords_Cleft, singlereminder_maleWords_Cright)
+/ trials = [1=instructions3_C; 2=spacebar;
+  3-12= random(maleWords_Cright, femaleWords_Cleft)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ branch = [if(block.stereotypes_C)block.incompatibletestinstructions_C]
+</block>
+ 
+<block pictures_words_incompatible_C>
+/ bgstim = (reminder_maleWords_Cright, reminder_femaleFacesright, reminder_oderright, reminder_femaleWords_Cleft, reminder_maleFacesleft, reminder_oderleft)
+/ trials = [
+  2,4,6,8,10,12,14,16,18,20 = random(maleWords_Cright, femaleWords_Cleft);
+  1,3,5,7,9,11,13,15,17,19 = random(maleFaces_Cleft, femaleFaces_Cright)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ontrialend= [values.correct_C_inc_test=block.pictures_words_incompatible_C.correctcount]
+/ ontrialend= [if (block.pictures_words_incompatible_C.trialcount <11 )
+				{					
+					if(block.pictures_words_incompatible_C.latency  <= 10000)
+					{
+						values.sum2_C_firsthalf =  values.sum2_C_firsthalf + block.pictures_words_incompatible_C.latency*block.pictures_words_incompatible_C.correct;
+						values.n2_C_firsthalf += 1;
+						values.ss2_C_firsthalf =  values.ss2_C_firsthalf + (block.pictures_words_incompatible_C.latency * block.pictures_words_incompatible_C.latency*block.pictures_words_incompatible_C.correct);
+						values.n_correct_C_firsthalf += block.pictures_words_incompatible_C.correct;
+					}
+					if(block.pictures_words_incompatible_C.latency  <= 300) 
+					{
+						values.sum_fast2_C_firsthalf += 1;
+					}
+					
+				}		
+					else
+						{   
+						if(block.pictures_words_incompatible_C.latency  <= 10000)
+							{
+								values.sum2_C_scdhalf =  values.sum2_C_scdhalf + block.pictures_words_incompatible_C.latency;
+								values.n2_C_scdhalf += 1;
+								values.ss2_C_scdhalf =  values.ss2_C_scdhalf + (block.pictures_words_incompatible_C.latency * block.pictures_words_incompatible_C.latency);
+								values.n_correct_C_scdhalf += block.pictures_words_incompatible_C.correct;
+							}
+						if(block.pictures_words_incompatible_C.latency  <= 300) 
+								{
+									values.sum_fast2_C_scdhalf += 1;
+								}					
+						}
+			]
+</block>
+
+<block compatibletestinstructions_C>
+/ bgstim = (reminder_femaleWords_Cright, reminder_FemaleFacesright, reminder_oderright, reminder_maleWords_Cleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=instructions2_C]
+/ branch = [if(block.stereotypes_C)block.spacebar_compatible_C]
+/ recorddata = false
+</block>
+
+<block incompatibletestinstructions_C>
+/ bgstim = (reminder_maleWords_Cright, reminder_FemaleFacesright, reminder_oderright, reminder_femaleWords_Cleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=instructions4_C]
+/ recorddata = false
+/ branch = [if(block.stereotypes_C)block.spacebar_incompatible_C]
+</block>
+
+<block spacebar_compatible_C>
+/ bgstim = (reminder_femaleWords_Cright, reminder_FemaleFacesright, reminder_oderright, reminder_maleWords_Cleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=spacebar]
+/ recorddata = false
+/ branch = [if(block.stereotypes_C)block.pictures_words_compatible_C]
+</block>
+
+<block spacebar_incompatible_C>
+/ bgstim = (reminder_maleWords_Cright, reminder_FemaleFacesright, reminder_oderright, reminder_femaleWords_Cleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=spacebar]
+/ recorddata = false
+/ branch = [if(block.stereotypes_C)block.pictures_words_incompatible_C]
+</block>  
+
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+								***Blöcke vierter IAT****
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+  
+  <block stereotypes_D>
+/ bgstim = (singlereminder_femaleWords_Dright, singlereminder_maleWords_Dleft)
+/ trials = [1=instructions1_D; 2=spacebar;
+  3-12= random(maleWords_Dleft, femaleWords_Dright)]
+/branch = [if(block.stereotypes_D)block.compatibletestinstructions_D]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ onblockend = [values.iatorder_D += script.currentblocknumber]
+</block>
+
+
+<block pictures_words_compatible_D>
+/ bgstim = (reminder_femaleWords_Dright, reminder_femaleFacesright, reminder_oderright, reminder_maleWords_Dleft, reminder_maleFacesleft, reminder_oderleft)
+/ trials = [
+  2,4,6,8,10,12,14,16,18,20 = random(maleWords_Dleft, femaleWords_Dright);
+  1,3,5,7,9,11,13,15,17,19 = random(maleFaces_Dleft, femaleFaces_Dright)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ branch = [if(block.stereotypes_D)block.stereotypes_reverse_D]
+/ ontrialend = [values.correct_D_test = block.pictures_words_compatible_D.correctcount]
+/ ontrialend= [if (block.pictures_words_compatible_D.trialcount <11 )
+				{
+					if(block.pictures_words_compatible_D.latency  <= 10000)
+					{
+						values.sum1_D_firsthalf =  values.sum1_D_firsthalf + block.pictures_words_compatible_D.latency*block.pictures_words_compatible_D.correct;
+						values.n1_D_firsthalf += 1;
+						values.ss1_D_firsthalf =  values.ss1_D_firsthalf + (block.pictures_words_compatible_D.latency * block.pictures_words_compatible_D.latency*block.pictures_words_compatible_D.correct);
+						values.n_correct_D_firsthalf += block.pictures_words_compatible_D.correct;
+					}
+					if(block.pictures_words_compatible_D.latency  <= 300) 
+					{
+						values.sum_fast1_D_firsthalf += 1;
+					}
+				}
+					
+					else
+						{   			
+						if(block.pictures_words_compatible_D.latency  <= 10000)
+							{
+								values.sum1_D_scdhalf =  values.sum1_D_scdhalf + block.pictures_words_compatible_D.latency;
+								values.n1_D_scdhalf += 1;
+								values.ss1_D_scdhalf =  values.ss1_D_scdhalf + (block.pictures_words_compatible_D.latency * block.pictures_words_compatible_D.latency);
+								values.n_correct_D_scdhalf += block.pictures_words_compatible_D.correct;
+							}
+						if(block.pictures_words_compatible_D.latency  <= 300) 
+								{
+									values.sum_fast1_D_scdhalf += 1;
+								}						
+						}
+			]
+</block>
+
+<block stereotypes_reverse_D>
+/ bgstim = (singlereminder_femaleWords_Dleft, singlereminder_maleWords_Dright)
+/ trials = [1=instructions3_D; 2=spacebar;
+  3-12= random(maleWords_Dright, femaleWords_Dleft)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ branch = [if(block.stereotypes_D)block.incompatibletestinstructions_D]
+</block>
+ 
+<block pictures_words_incompatible_D>
+/ bgstim = (reminder_maleWords_Dright, reminder_femaleFacesright, reminder_oderright, reminder_femaleWords_Dleft, reminder_maleFacesleft, reminder_oderleft)
+/ trials = [
+  2,4,6,8,10,12,14,16,18,20 = random(maleWords_Dright, femaleWords_Dleft);
+  1,3,5,7,9,11,13,15,17,19 = random(maleFaces_Dleft, femaleFaces_Dright)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ontrialend= [values.correct_D_inc_test=block.pictures_words_incompatible_D.correctcount]
+/ ontrialend= [if (block.pictures_words_incompatible_D.trialcount <11 )
+				{					
+					if(block.pictures_words_incompatible_D.latency  <= 10000)
+					{
+						values.sum2_D_firsthalf =  values.sum2_D_firsthalf + block.pictures_words_incompatible_D.latency*block.pictures_words_incompatible_D.correct;
+						values.n2_D_firsthalf += 1;
+						values.ss2_D_firsthalf =  values.ss2_D_firsthalf + (block.pictures_words_incompatible_D.latency * block.pictures_words_incompatible_D.latency*block.pictures_words_incompatible_D.correct);
+						values.n_correct_D_firsthalf += block.pictures_words_incompatible_D.correct;
+					}
+					if(block.pictures_words_incompatible_D.latency  <= 300) 
+					{
+						values.sum_fast2_D_firsthalf += 1;
+					}
+					
+				}		
+					else
+						{   
+						if(block.pictures_words_incompatible_D.latency  <= 10000)
+							{
+								values.sum2_D_scdhalf =  values.sum2_D_scdhalf + block.pictures_words_incompatible_D.latency;
+								values.n2_D_scdhalf += 1;
+								values.ss2_D_scdhalf =  values.ss2_D_scdhalf + (block.pictures_words_incompatible_D.latency * block.pictures_words_incompatible_D.latency);
+								values.n_correct_D_scdhalf += block.pictures_words_incompatible_D.correct;
+							}
+						if(block.pictures_words_incompatible_D.latency  <= 300) 
+								{
+									values.sum_fast2_D_scdhalf += 1;
+								}					
+						}
+			]
+</block>
+
+<block compatibletestinstructions_D>
+/ bgstim = (reminder_femaleWords_Dright, reminder_FemaleFacesright, reminder_oderright, reminder_maleWords_Dleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=instructions2_D]
+/ branch = [if(block.stereotypes_D)block.spacebar_compatible_D]
+/ recorddata = false
+</block>
+
+<block incompatibletestinstructions_D>
+/ bgstim = (reminder_maleWords_Dright, reminder_FemaleFacesright, reminder_oderright, reminder_femaleWords_Dleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=instructions4_D]
+/ recorddata = false
+/ branch = [if(block.stereotypes_D)block.spacebar_incompatible_D]
+</block>
+
+<block spacebar_compatible_D>
+/ bgstim = (reminder_femaleWords_Dright, reminder_FemaleFacesright, reminder_oderright, reminder_maleWords_Dleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=spacebar]
+/ recorddata = false
+/ branch = [if(block.stereotypes_D)block.pictures_words_compatible_D]
+</block>
+
+<block spacebar_incompatible_D>
+/ bgstim = (reminder_maleWords_Dright, reminder_FemaleFacesright, reminder_oderright, reminder_femaleWords_Dleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=spacebar]
+/ recorddata = false
+/ branch = [if(block.stereotypes_D)block.pictures_words_incompatible_D]
+</block>  
+
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+								***Blöcke fünfter IAT****
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+  
+  <block stereotypes_E>
+/ bgstim = (singlereminder_femaleWords_Eright, singlereminder_maleWords_Eleft)
+/ trials = [1=instructions1_E; 2=spacebar;
+  3-12= random(maleWords_Eleft, femaleWords_Eright)]
+/branch = [if(block.stereotypes_E)block.compatibletestinstructions_E]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ onblockend = [values.iatorder_E += script.currentblocknumber]
+</block>
+
+
+<block pictures_words_compatible_E>
+/ bgstim = (reminder_femaleWords_Eright, reminder_femaleFacesright, reminder_oderright, reminder_maleWords_Eleft, reminder_maleFacesleft, reminder_oderleft)
+/ trials = [
+  2,4,6,8,10,12,14,16,18,20 = random(maleWords_Eleft, femaleWords_Eright);
+  1,3,5,7,9,11,13,15,17,19 = random(maleFaces_Eleft, femaleFaces_Eright)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ branch = [if(block.stereotypes_E)block.stereotypes_reverse_E]
+/ ontrialend = [values.correct_E_test = block.pictures_words_compatible_E.correctcount]
+/ ontrialend= [if (block.pictures_words_compatible_E.trialcount <11 )
+				{
+					if(block.pictures_words_compatible_E.latency  <= 10000)
+					{
+						values.sum1_E_firsthalf =  values.sum1_E_firsthalf + block.pictures_words_compatible_E.latency*block.pictures_words_compatible_E.correct;
+						values.n1_E_firsthalf += 1;
+						values.ss1_E_firsthalf =  values.ss1_E_firsthalf + (block.pictures_words_compatible_E.latency * block.pictures_words_compatible_E.latency*block.pictures_words_compatible_E.correct);
+						values.n_correct_E_firsthalf += block.pictures_words_compatible_E.correct;
+					}
+					if(block.pictures_words_compatible_E.latency  <= 300) 
+					{
+						values.sum_fast1_E_firsthalf += 1;
+					}
+				}
+					
+					else
+						{   			
+						if(block.pictures_words_compatible_E.latency  <= 10000)
+							{
+								values.sum1_E_scdhalf =  values.sum1_E_scdhalf + block.pictures_words_compatible_E.latency;
+								values.n1_E_scdhalf += 1;
+								values.ss1_E_scdhalf =  values.ss1_E_scdhalf + (block.pictures_words_compatible_E.latency * block.pictures_words_compatible_E.latency);
+								values.n_correct_E_scdhalf += block.pictures_words_compatible_E.correct;
+							}
+						if(block.pictures_words_compatible_E.latency  <= 300) 
+								{
+									values.sum_fast1_E_scdhalf += 1;
+								}						
+						}
+			]
+</block>
+
+<block stereotypes_reverse_E>
+/ bgstim = (singlereminder_femaleWords_Eleft, singlereminder_maleWords_Eright)
+/ trials = [1=instructions3_E; 2=spacebar;
+  3-12= random(maleWords_Eright, femaleWords_Eleft)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ branch = [if(block.stereotypes_E)block.incompatibletestinstructions_E]
+</block>
+ 
+<block pictures_words_incompatible_E>
+/ bgstim = (reminder_maleWords_Eright, reminder_femaleFacesright, reminder_oderright, reminder_femaleWords_Eleft, reminder_maleFacesleft, reminder_oderleft)
+/ trials = [
+  2,4,6,8,10,12,14,16,18,20 = random(maleWords_Eright, femaleWords_Eleft);
+  1,3,5,7,9,11,13,15,17,19 = random(maleFaces_Eleft, femaleFaces_Eright)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+/ontrialend= [values.correct_E_inc_test=block.pictures_words_incompatible_E.correctcount]
+/ ontrialend= [if (block.pictures_words_incompatible_E.trialcount <11 )
+				{					
+					if(block.pictures_words_incompatible_E.latency  <= 10000)
+					{
+						values.sum2_E_firsthalf =  values.sum2_E_firsthalf + block.pictures_words_incompatible_E.latency*block.pictures_words_incompatible_E.correct;
+						values.n2_E_firsthalf += 1;
+						values.ss2_E_firsthalf =  values.ss2_E_firsthalf + (block.pictures_words_incompatible_E.latency * block.pictures_words_incompatible_E.latency*block.pictures_words_incompatible_E.correct);
+						values.n_correct_E_firsthalf += block.pictures_words_incompatible_E.correct;
+					}
+					if(block.pictures_words_incompatible_E.latency  <= 300) 
+					{
+						values.sum_fast2_E_firsthalf += 1;
+					}
+					
+				}		
+					else
+						{   
+						if(block.pictures_words_incompatible_E.latency  <= 10000)
+							{
+								values.sum2_E_scdhalf =  values.sum2_E_scdhalf + block.pictures_words_incompatible_E.latency;
+								values.n2_E_scdhalf += 1;
+								values.ss2_E_scdhalf =  values.ss2_E_scdhalf + (block.pictures_words_incompatible_E.latency * block.pictures_words_incompatible_E.latency);
+								values.n_correct_E_scdhalf += block.pictures_words_incompatible_E.correct;
+							}
+						if(block.pictures_words_incompatible_E.latency  <= 300) 
+								{
+									values.sum_fast2_E_scdhalf += 1;
+								}					
+						}
+			]
+</block>
+
+<block compatibletestinstructions_E>
+/ bgstim = (reminder_femaleWords_Eright, reminder_FemaleFacesright, reminder_oderright, reminder_maleWords_Eleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=instructions2_E]
+/ branch = [if(block.stereotypes_E)block.spacebar_compatible_E]
+/ recorddata = false
+</block>
+
+<block incompatibletestinstructions_E>
+/ bgstim = (reminder_maleWords_Eright, reminder_FemaleFacesright, reminder_oderright, reminder_femaleWords_Eleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=instructions4_E]
+/ recorddata = false
+/ branch = [if(block.stereotypes_E)block.spacebar_incompatible_E]
+</block>
+
+<block spacebar_compatible_E>
+/ bgstim = (reminder_femaleWords_Eright, reminder_FemaleFacesright, reminder_oderright, reminder_maleWords_Eleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=spacebar]
+/ recorddata = false
+/ branch = [if(block.stereotypes_E)block.pictures_words_compatible_E]
+</block>
+
+<block spacebar_incompatible_E>
+/ bgstim = (reminder_maleWords_Eright, reminder_FemaleFacesright, reminder_oderright, reminder_femaleWords_Eleft, reminder_MaleFacesleft, reminder_oderleft)
+/ trials = [1=spacebar]
+/ recorddata = false
+/ branch = [if(block.stereotypes_E)block.pictures_words_incompatible_E]
+</block>  
+
+ *****************************************************************************
+ *****************************************************************************
+ *************************** Face SORTING ************************************
+ *****************************************************************************
+ 
+ <item instructionsFaSo1>
+/ 1 = "Der erste IAT fängt jetzt an.
+ 
+ 
+Die zwei Stimuli, zwischen denen du in diesem Block unterscheiden sollst, sind Fotos, 
+die zu den Kategorien FRAUEN oder MÄNNER gehören.
+
+
+Drücke Taste A, wenn ein Bild zu der Kategorie MÄNNER gehört.
+Drücke Taste 5, wenn ein Bild zu der Kategorie FRAUEN gehört.
+
+
+
+(zum Fortfahren Leertaste drücken)"
+
+</item>
+
+<item instructionsFaSo2>
+/2 = "Zur Erinnerung:
+
+Behalte deine Finger während der Aufgabe durchgehend auf den Tasten 'A' und '5'.
+Wenn du die falsche Taste drückst, erscheint ein rotes X auf dem Bildschirm.
+Zum Korrigieren drücke die andere Taste. 
+
+
+
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<text instructionsFaSo1>
+/ items = instructionsFaSo1
+/ hjustify = center
+/ size = (70%, 40%)
+</text> 
+
+<text instructionsFaSo2>
+/ items = instructionsFaSo2
+/ hjustify = center
+/ size = (70%, 40%)
+</text> 
+
+<trial instructionsFaSo1>
+/ stimulustimes = [1=instructionsFaSo1]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<trial instructionsFaSo2>
+/ stimulustimes = [1=instructionsFaSo2]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+ <block facesorting>
+/ bgstim = (reminder_MaleFacesleft, reminder_FemaleFacesright)
+/ trials = [1=instructionsFaSo1; 2=instructionsFaSo2; 3=spacebar;
+  4-13= random(femaleFaces_Aright, maleFaces_Aleft)]
+/ errormessage = true(error,200)
+/ responsemode = correct
+</block>
+ 
+************************************************************************************************************************************
+************************************************************************************************************************************
+           Zusätzliche Instruktionen 
+************************************************************************************************************************************
+************************************************************************************************************************************
+<item instructionIAT>
+/1 = "IAT
+
+
+Du wirst nun eine Gruppe von Aufgaben bearbeiten, die zusammen den IAT darstellen - den impliziten Assoziationstest. Der IAT misst deine impliziten Einstellungen. 
+
+In den verschiedenen Aufgaben geht es um Kategorisierung.
+Das heißt, bei jedem Durchgang wird ein Wort oder ein Bild in der Mitte des Bildschirms erscheinen, welches du einer bestimmten Kategorie zuordnen sollst. 
+
+Beim IAT ist es wichtig, die Wörter und Bilder so SCHNELL wie möglich zu sortieren, aber dabei gleichzeitig so WENIG FEHLER wie möglich zu machen.
+Wenn du zu langsam reagierst, oder zu viele Fehler machst, können wir dein Ergebnis nicht auswerten.
+
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<text instructionIAT>
+/ items = instructionIAT
+/ hjustify = left
+/ vjustify = top
+/ size = (80%, 80%)
+</text>
+
+<trial instructionIAT>
+/ stimulustimes = [1=instructionIAT]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<item keyboardinstructions>
+/1 = "Es geht darum, eine von zwei Tasten zu drücken, wenn ein Wort oder ein Bild auf dem Bildschirm erscheint, und es damit einer Kategorie auf der linken oder rechten Seite zuzuordnen. 
+Die Kategorien, um die es in der jeweiligen Aufgabe geht, werden jeweils oben in der linken und rechten Ecke des Bildschirms zu sehen sein.
+
+Drücke die Taste A, wenn etwas zur linken Seite gehört.
+Drücke die Taste 5 (rechts, auf dem Ziffernblock), wenn etwas zur rechten Seite gehört.
+
+Das Bild unten zeigt, welche Tasten wir genau meinen. Lass deine Finger während der Aufgabe am besten immer auf diesen Tasten liegen. 
+Ein rotes X erscheint jedes Mal, wenn du einen Fehler machst - korrigier den Fehler, indem du die andere Taste drückst.
+
+                                         (zum Fortfahren Leertaste drücken)"
+</item>
+
+<text keyboardinstructions>
+/ items = keyboardinstructions
+/ hjustify = left
+/ vjustify = top
+/ size = (80%, 80%)
+</text>
+
+<item keyboard>
+/1 = "tastaturmarkiert.bmp"
+</item>
+
+<picture keyboard>
+ /items = keyboard
+ /select = noreplace
+ /position = (50, 75)
+ </picture>
+
+<trial keyboardinstructions>
+/ stimulustimes = [0=keyboardinstructions; 100=keyboard]
+/ validresponse = (" ")
+/ recorddata = false
+</trial>
+
+<block instructionIAT>
+/ bgstim = (instructionIAT)
+/ trials = [1=instructionIAT]
+/ recorddata = false
+</block>
+
+<block keyboardinstructions>
+/ bgstim = (keyboardinstructions)
+/ trials = [1=keyboardinstructions]
+/ recorddata = false
+</block>
+
+<item donemessage>
+/1 = "Diesen IAT hast du geschafft! Gönne dir eine kurze Pause. 
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<text donemessage>
+/ items = donemessage
+/ hjustify = center
+/ vjustify = center
+/ size = (50%, 50%)
+</text>
+
+<trial donemessage>
+/ stimulustimes = [1=donemessage]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<block donemessage>
+/ bgstim = (donemessage)
+/ trials = [1=donemessage]
+/ recorddata = false
+</block>
+
+<item reminder_A>
+/1 = "FAMILIE-KARRIERE-IAT
+
+Die nächsten vier Aufgaben gehören zum FAMILIE-KARRIERE-IAT.
+
+Denke daran: Deine Aufgabe ist es, so schnell wie möglich zu sein und dabei so wenig Fehler wie möglich zu machen.
+
+Bitte denke daran, deine Finger während der gesamten Aufgabe auf den Tasten 'A' und '5' liegen zu lassen.
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<text reminder_A>
+/ items = reminder_A
+/ hjustify = center
+/ vjustify = center
+/ txcolor = black
+/ fontstyle = ("Arial", 3%)
+/ size = (80%, 80%)
+</text>
+
+<trial reminder_A>
+/ stimulustimes = [1=reminder_A]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<block reminder_A>
+/ bgstim = (reminder_A)
+/ trials = [1=reminder_A]
+/ recorddata = false
+/ screencolor = lightblue
+/branch = [if(block.reminder_A)block.stereotypes_A]
+</block>
+
+------------------------- IAT B 
+
+<item reminder_B>
+/1 = "EMOTIONALE/RATIONALE INTELLIGENZ-IAT
+
+Die nächsten vier Aufgaben gehören zum EMOTIONALE/RATIONALE INTELLIGENZ-IAT.
+
+Denke daran: Deine Aufgabe ist es, so schnell wie möglich zu sein und dabei so wenig Fehler wie möglich zu machen.
+
+Bitte denke daran, deine Finger während der gesamten Aufgabe auf den Tasten 'A' und '5' liegen zu lassen.
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<text reminder_B>
+/ items = reminder_B
+/ hjustify = center
+/ vjustify = center
+/ txcolor = black
+/ fontstyle = ("Arial", 3%)
+/ size = (80%, 80%)
+</text>
+
+<trial reminder_B>
+/ stimulustimes = [1=reminder_B]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<block reminder_B>
+/ bgstim = (reminder_B)
+/ trials = [1=reminder_B]
+/ recorddata = false
+/ screencolor = lightblue
+/branch = [if(block.reminder_B)block.stereotypes_B]
+</block>
+
+
+
+
+------------------------- IAT C
+
+<item reminder_C>
+/1 = "GEISTESWISSENSCHAFTEN/NATURWISSENSCHAFTEN-IAT
+
+Die nächsten vier Aufgaben gehören zum GEISTESWISSENSCHAFTEN/NATURWISSENSCHAFTEN-IAT.
+
+Denke daran: Deine Aufgabe ist es, so schnell wie möglich zu sein und dabei so wenig Fehler wie möglich zu machen.
+
+Bitte denke daran, deine Finger während der gesamten Aufgabe auf den Tasten 'A' und '5' liegen zu lassen.
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<text reminder_C>
+/ items = reminder_C
+/ hjustify = center
+/ vjustify = center
+/ txcolor = black
+/ fontstyle = ("Arial", 3%)
+/ size = (80%, 80%)
+</text>
+
+<trial reminder_C>
+/ stimulustimes = [1=reminder_C]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<block reminder_C>
+/ bgstim = (reminder_C)
+/ trials = [1=reminder_C]
+/ recorddata = false
+/ screencolor = lightblue
+/branch = [if(block.reminder_C)block.stereotypes_C]
+</block>
+
+
+
+
+
+------------------------- IAT D
+
+<item reminder_D>
+/1 = "SANFTMUT/AGGRESSION-IAT
+
+Die nächsten vier Aufgaben gehören zum SANFTMUT/AGGRESSIONIAT.
+
+Denke daran: Deine Aufgabe ist es, so schnell wie möglich zu sein und dabei so wenig Fehler wie möglich zu machen.
+
+Bitte denke daran, deine Finger während der gesamten Aufgabe auf den Tasten 'A' und '5' liegen zu lassen.
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<text reminder_D>
+/ items = reminder_D
+/ hjustify = center
+/ vjustify = center
+/ txcolor = black
+/ fontstyle = ("Arial", 3%)
+/ size = (80%, 80%)
+</text>
+
+<trial reminder_D>
+/ stimulustimes = [1=reminder_D]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<block reminder_D>
+/ bgstim = (reminder_D)
+/ trials = [1=reminder_D]
+/ recorddata = false
+/ screencolor = lightblue
+/branch = [if(block.reminder_D)block.stereotypes_D]
+</block>
+
+
+
+------------------------- IAT E 
+
+<item reminder_E>
+/1 = "BEZIEHUNGSORIENTIERUNG/HANDLUNGSORIENTIERUNG-IAT
+
+Die nächsten vier Aufgaben gehören zum BEZIEHUNGSORIENTIERUNG/HANDLUNGSORIENTIERUNG-IAT.
+
+Denke daran: Deine Aufgabe ist es, so schnell wie möglich zu sein und dabei so wenig Fehler wie möglich zu machen.
+
+Bitte denke daran, deine Finger während der gesamten Aufgabe auf den Tasten 'A' und '5' liegen zu lassen.
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<text reminder_E>
+/ items = reminder_E
+/ hjustify = center
+/ vjustify = center
+/ txcolor = black
+/ fontstyle = ("Arial", 3%)
+/ size = (80%, 80%)
+</text>
+
+<trial reminder_E>
+/ stimulustimes = [1=reminder_E]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<block reminder_E>
+/ bgstim = (reminder_E)
+/ trials = [1=reminder_E]
+/ recorddata = false
+/ screencolor = lightblue
+/branch = [if(block.reminder_E)block.stereotypes_E]
+</block>
+
+
+Fortschritt Anzeige 
+
+<item progressreminder1>
+/1 = "Du hast 3 von 5 IATs durchgeführt. Mach ruhig eine kleine Pause, wenn du magst.
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<text progressreminder1>
+/ items = progressreminder1
+/ hjustify = left
+/ vjustify = center
+/ size = (50%, 50%)
+</text>
+
+<trial progressreminder1>
+/ stimulustimes = [1=progressreminder1]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+
+<block progressreminder1>
+/ bgstim = (progressreminder1)
+/ trials = [1=progressreminder1]
+/ recorddata = false
+</block>
+
+
+**************************************************
+
+<item progressreminder2>
+/1 = "Du hast jetzt 4 von 5 IATs durchgeführt, es folgt noch einer.
+
+(zum Fortfahren Leertaste drücken)"
+</item>
+
+<text progressreminder2>
+/ items = progressreminder2
+/ hjustify = left
+/ vjustify = center
+/ size = (50%, 50%)
+</text>
+
+<trial progressreminder2>
+/ stimulustimes = [1=progressreminder2]
+/ correctresponse = (" ")
+/ errormessage = false
+/ recorddata = false
+</trial>
+
+<block progressreminder2>
+/ bgstim = (progressreminder2)
+/ trials = [1=progressreminder2]
+/ recorddata = false
+</block>
+
+
+
+**************************************************************************************************************
+**************************************************************************************************************
+	DATEN 
+**************************************************************************************************************
+
+Rohdaten **********WICHTIG HIER DIE BEZEICHNUNGEN ANPASSEN**********
+
+<data>
+/ file = "IAT_rawdata.Pred.iqdat"
+/ columns = [build, computer.platform, date, time, group, subject, blockcode, blocknum, trialcode, trialnum, response, correct, latency, 
+stimulusnumber, stimulusitem, expressions.d_A, expressions.d_B, expressions.d_C, expressions.d_D, expressions.d_E, 
+expressions.percentcorrect_A, expressions.percentcorrect_B, expressions.percentcorrect_C, expressions.percentcorrect_D, expressions.percentcorrect_E,
+expressions.percentfast_A, expressions.percentfast_B, expressions.percentfast_C, expressions.percentfast_D, expressions.percentfast_E,
+expressions.IATName_A expressions.IATName_B, expressions.IATName_C, expressions.IATName_D, expressions.IATName_E]
+/ separatefiles = false
+</data>
+
+Daten Zusammenfassung
+<summarydata>
+/ file = "IAT_summary.Pred.iqdat"
+/ columns = [script.startdate, script.starttime, script.subjectid, script.groupid, script.elapsedtime, computer.platform, 
+values.completed, expressions.d_A, 
+expressions.percentcorrect_A, 
+expressions.IATName_A, 
+expressions.percentfast_A, 
+expressions.amountvalid_A,
+values.IATorder_A,
+values.sum1_A_firsthalf,  values.sum1_A_scdhalf, values.n1_A_firsthalf, values.n1_A_scdhalf, values.ss1_A_firsthalf, values.ss1_A_scdhalf, values.sum_fast1_A_firsthalf, 
+values.sum_fast1_A_scdhalf, values.n_correct_A_firsthalf, values.n_correct_A_scdhalf, expressions.n_correct_A, values.sum2_A_firsthalf, values.sum2_A_scdhalf, values.n2_A_firsthalf, values.n2_A_scdhalf,
+values.sum_fast2_A_firsthalf, values.sum_fast2_A_scdhalf, 
+expressions.m1_A_firsthalf, expressions.m1_A_scdhalf, expressions.m2_A_firsthalf, expressions.m2_A_scdhalf,
+expressions.m1_A, expressions.m2_A , expressions.d_A, expressions.d_A_firsthalf, expressions.d_A_scdhalf
+
+expressions.d_B, 
+expressions.percentcorrect_B, 
+expressions.IATName_B, 
+expressions.percentfast_B, 
+expressions.amountvalid_B,
+values.IATorder_B,
+values.sum1_B_firsthalf,  values.sum1_B_scdhalf, values.n1_B_firsthalf, values.n1_B_scdhalf, values.ss1_B_firsthalf, values.ss1_B_scdhalf, values.sum_fast1_B_firsthalf, 
+values.sum_fast1_B_scdhalf, values.n_correct_B_firsthalf, values.n_correct_B_scdhalf, expressions.n_correct_B, values.sum2_B_firsthalf, values.sum2_B_scdhalf, values.n2_B_firsthalf, values.n2_B_scdhalf,
+values.sum_fast2_B_firsthalf, values.sum_fast2_B_scdhalf, 
+expressions.m1_B_firsthalf, expressions.m1_B_scdhalf, expressions.m2_B_firsthalf, expressions.m2_B_scdhalf,
+expressions.m1_B, expressions.m2_B , expressions.d_B, expressions.d_B_firsthalf, expressions.d_B_scdhalf
+
+
+expressions.d_C, 
+expressions.percentcorrect_C, 
+expressions.IATName_C, 
+expressions.percentfast_C, 
+expressions.amountvalid_C,
+values.IATorder_C,
+values.sum1_C_firsthalf,  values.sum1_C_scdhalf, values.n1_C_firsthalf, values.n1_C_scdhalf, values.ss1_C_firsthalf, values.ss1_C_scdhalf, values.sum_fast1_C_firsthalf, 
+values.sum_fast1_C_scdhalf, values.n_correct_C_firsthalf, values.n_correct_C_scdhalf, expressions.n_correct_C, values.sum2_C_firsthalf, values.sum2_C_scdhalf, values.n2_C_firsthalf, values.n2_C_scdhalf,
+values.sum_fast2_C_firsthalf, values.sum_fast2_C_scdhalf, 
+expressions.m1_C_firsthalf, expressions.m1_C_scdhalf, expressions.m2_C_firsthalf, expressions.m2_C_scdhalf,
+expressions.m1_C, expressions.m2_C , expressions.d_C, expressions.d_C_firsthalf, expressions.d_C_scdhalf
+
+expressions.d_D, 
+expressions.percentcorrect_D, 
+expressions.IATName_D, 
+expressions.percentfast_D, 
+expressions.amountvalid_D,
+values.IATorder_D,
+values.sum1_D_firsthalf,  values.sum1_D_scdhalf, values.n1_D_firsthalf, values.n1_D_scdhalf, values.ss1_D_firsthalf, values.ss1_D_scdhalf, values.sum_fast1_D_firsthalf, 
+values.sum_fast1_D_scdhalf, values.n_correct_D_firsthalf, values.n_correct_D_scdhalf, expressions.n_correct_D, values.sum2_D_firsthalf, values.sum2_D_scdhalf, values.n2_D_firsthalf, values.n2_D_scdhalf,
+values.sum_fast2_D_firsthalf, values.sum_fast2_D_scdhalf, 
+expressions.m1_D_firsthalf, expressions.m1_D_scdhalf, expressions.m2_D_firsthalf, expressions.m2_D_scdhalf,
+expressions.m1_D, expressions.m2_D , expressions.d_D, expressions.d_D_firsthalf, expressions.d_D_scdhalf
+
+expressions.d_E, 
+expressions.percentcorrect_E, 
+expressions.IATName_E, 
+expressions.percentfast_E, 
+expressions.amountvalid_E,
+values.IATorder_E,
+values.sum1_E_firsthalf,  values.sum1_E_scdhalf, values.n1_E_firsthalf, values.n1_E_scdhalf, values.ss1_E_firsthalf, values.ss1_E_scdhalf, values.sum_fast1_E_firsthalf, 
+values.sum_fast1_E_scdhalf, values.n_correct_E_firsthalf, values.n_correct_E_scdhalf, expressions.n_correct_E, values.sum2_E_firsthalf, values.sum2_E_scdhalf, values.n2_E_firsthalf, values.n2_E_scdhalf,
+values.sum_fast2_E_firsthalf, values.sum_fast2_E_scdhalf, 
+expressions.m1_E_firsthalf, expressions.m1_E_scdhalf, expressions.m2_E_firsthalf, expressions.m2_E_scdhalf,
+expressions.m1_E, expressions.m2_E , expressions.d_E, expressions.d_E_firsthalf, expressions.d_E_scdhalf
+
+
+
+
+]
+/ separatefiles = false
+</summarydata>
+
+
+************************************************************************************************************************************
+************************************************************************************************************************************
+**************************************************************************************************************
+**************************************************************************************************************
+	EXPERIMENT 
+**************************************************************************************************************
+**************************************************************************************************************
+
+<list All_IATs>
+/items = (block.reminder_A, block.reminder_B, block.reminder_C, block.reminder_D, block.reminder_E)
+/selectionmode = random
+/replace = false
+</list>
+
+
+<expt>
+/blocks = [
+1=instructionIAT; 2=keyboardinstructions; 3=facesorting; 
+4=list.all_iats; 5=donemessage; 6=list.all_iats; 7=donemessage; 
+8=list.all_iats; 9=progressreminder1; 
+10=list.all_iats; 11=progressreminder2;
+12=list.all_iats]			
+/onexptend = [values.completed = 1]
+</expt>
+
+<monkey>
+/ latencydistribution = normal(100, 900)
+/ percentcorrect = 65
+</monkey>
+
